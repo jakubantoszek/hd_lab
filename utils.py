@@ -8,13 +8,16 @@ polish_signs = {'ą': 'a', 'ć': 'c', 'ę': 'e', 'ł': 'l', 'ó': 'o', 'ń': 'n'
                 'ż': 'z', 'ź': 'z'}
 
 
-def random_phone_number():
+def random_phone_number(prev_numbers):
     number = ''
     first_letter = random.randrange(1, 10)
     number += str(first_letter)
 
     for _ in range(8):
         number += str(random.randrange(1, 10))
+
+    if number in prev_numbers:
+        return random_phone_number(prev_numbers)
 
     return number
 
@@ -45,12 +48,17 @@ def random_surname():
     return surnames[x]
 
 
-def random_email(name, surname):
+def random_email(name, surname, prev_mails):
     service = e_mails[random.randrange(len(e_mails))]
     email_break = email_breaks[random.randrange(len(email_breaks))]
     mail_name = remove_polish_signs(name).lower()
     mail_surname = remove_polish_signs(surname).lower()
-    return mail_name + email_break + mail_surname + '@' + service
+
+    mail = mail_name + email_break + mail_surname + '@' + service
+    if mail in prev_mails:
+        return random_email(name, surname, prev_mails)
+
+    return mail
 
 
 def remove_polish_signs(string):

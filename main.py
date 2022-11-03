@@ -1,10 +1,10 @@
 from utils import *
+from create_data import *
 
 if __name__ == '__main__':
     get_names()
     get_surnames()
-    for i in range(100):
-        print(random_email(random_name(), random_surname()))
+    phones = []
+    mails = []
 
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    create_guests_table(phones, mails)
