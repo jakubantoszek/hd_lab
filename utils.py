@@ -107,10 +107,18 @@ def random_position():
     return val
 
 
-def set_hotels_capacity():
-    for i in range(20):
-        cap = random.randrange(5, 21) * 10
-        hotel_capacity.append((i + 1, cap))
+def rand_hotels_capacity():
+    return random.randrange(5, 21) * 10
+
+
+def get_hotel_rooms_capacities(hotel_cap):
+    results = []
+
+    for j in range(10):
+        for i in range(int(hotel_cap / 10)):
+            results.append(ten_rooms_capacities[j])
+
+    return results
 
 
 def random_is_occupied():

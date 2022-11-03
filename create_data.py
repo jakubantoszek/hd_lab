@@ -32,4 +32,3 @@ def create_worker_table(phones, mails):
         worker = Worker(j, phones, mails)
         phones.append(worker.phone_number)
         mails.append(worker.email)
-        print(worker)
