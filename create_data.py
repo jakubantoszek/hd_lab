@@ -7,6 +7,7 @@ from tables.ReservationDetails import ReservationDetails
 from tables.ReservationService import ReservationService
 from tables.Worker import Worker
 from tables.Room import Room
+from datetime import datetime
 
 reservesation_chances = {0.8: 1, 0.9: 2, 0.95: 3, 0.99: 4, 1: 5}
 
@@ -126,8 +127,7 @@ def rand_no_of_reservated_rooms():
 def wrong_room(reservation, room_reservations):
     ret = False
 
-    for val in room_reservations:
-        res = room_reservations[val]
+    for res in room_reservations:
         if max(res.check_in_date, reservation.check_in_date) <= \
                 min(res.check_out_date, reservation.check_out_date):
             ret = True
@@ -135,9 +135,8 @@ def wrong_room(reservation, room_reservations):
     return ret
 
 
-def create_reservation_details_table(reservations, rooms_dict):
-    dictionary = {}
-
+def create_reservation_details_table(reservations, rooms_dict, dictionary, period):
+    x = 0
     for res in reservations:
         no_of_rooms = rand_no_of_reservated_rooms()
         hotel_id = list(rooms_dict.keys())[random.randrange(len(rooms_dict.keys()))]
@@ -145,11 +144,12 @@ def create_reservation_details_table(reservations, rooms_dict):
         for _ in range(no_of_rooms):
             hotel_rooms = rooms_dict[hotel_id]
             room = hotel_rooms[random.randrange(len(hotel_rooms))]
-            while wrong_room(res, dictionary):
+
+            while wrong_room(res, dictionary[(hotel_id, room.number)]):
                 room = hotel_rooms[random.randrange(len(hotel_rooms))]
 
-            reservation_details = ReservationDetails(res.id, hotel_id, room)
-
-            if (hotel_id, room.number) not in dictionary:
-                dictionary[(hotel_id, room.number)] = []
+            reservation_details = ReservationDetails(res, hotel_id, room)
             dictionary[(hotel_id, room.number)].append(res)
+
+            if res.check_in_date < datetime.strptime(period[1], '%d-%m-%Y %H:%M') < res.check_out_date:
+                room.is_occupied = True

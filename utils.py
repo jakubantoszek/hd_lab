@@ -120,13 +120,6 @@ def get_hotel_rooms_capacities(hotel_cap):
     return results
 
 
-def random_is_occupied():
-    if random.random() < 0.6:
-        return True
-
-    return False
-
-
 def assign_workers_to_positions(workers):
     dictionary = {'osoba sprzatajaca': [], 'pokojowy': [], 'osoba zarzadzajaca': []}
     for worker in workers:
@@ -140,13 +133,14 @@ def assign_workers_to_positions(workers):
     return dictionary
 
 
-def assign_rooms_to_hotels(hotels, rooms):
+def assign_rooms_to_hotels(hotels, rooms, dates_dict):
     dictionary = {}
     for hotel in hotels:
         dictionary[hotel.id] = []
 
     for room in rooms:
         dictionary[room.hotel_id].append(room)
+        dates_dict[(room.hotel_id, room.number)] = []
 
     return dictionary
 

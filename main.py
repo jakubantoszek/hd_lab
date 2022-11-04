@@ -7,6 +7,7 @@ if __name__ == '__main__':
     set_positions()
     phones = []
     mails = []
+    dates_dict = {}
 
     T0 = '01-01-2020 00:00'
     T1 = '01-04-2020 00:00'
@@ -21,5 +22,5 @@ if __name__ == '__main__':
 
     hotels = create_hotel_table()
     rooms = create_room_table(hotels)
-    rooms_dict = assign_rooms_to_hotels(hotels, rooms)
-    create_reservation_details_table(reservations, rooms_dict)
+    rooms_dict = assign_rooms_to_hotels(hotels, rooms, dates_dict)
+    create_reservation_details_table(reservations, rooms_dict, dates_dict, [T0, T1])

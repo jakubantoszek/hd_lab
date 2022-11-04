@@ -17,7 +17,7 @@ class Room:
         self.hotel_id = hotel.id
         self.number = number
         self.room_type_id = random.randrange(1, 4)
-        self.is_occupied = random_is_occupied()
+        self.is_occupied = False
         self.max_no_of_guests = rand_capacity(hotel.rooms_capacity)
         self.price = calculate_price(hotel.stars, self.max_no_of_guests)
 
