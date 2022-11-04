@@ -1,5 +1,3 @@
-import random
-
 from utils import *
 
 
@@ -15,12 +13,12 @@ def calculate_price(hotel_stars, capacity):
 
 
 class Room:
-    def __init__(self, hotel, number, capacities):
+    def __init__(self, hotel, number):
         self.hotel_id = hotel.id
         self.number = number
         self.room_type_id = random.randrange(1, 4)
         self.is_occupied = random_is_occupied()
-        self.max_no_of_guests = rand_capacity(capacities)
+        self.max_no_of_guests = rand_capacity(hotel.rooms_capacity)
         self.price = calculate_price(hotel.stars, self.max_no_of_guests)
 
     def __str__(self):

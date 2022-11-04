@@ -3,7 +3,7 @@ from utils import *
 
 class Guest:
     def __init__(self, guest_id, numbers, mails):
-        self.id = guest_id + 1
+        self.id = guest_id
         self.phone_number = random_phone_number(numbers)
         self.name = random_name()
         self.surname = random_surname()

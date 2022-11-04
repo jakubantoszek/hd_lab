@@ -7,8 +7,7 @@ email_breaks = ['', '.', '-', '_']
 stars = [5, 4, 4, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2]
 polish_signs = {'ą': 'a', 'ć': 'c', 'ę': 'e', 'ł': 'l', 'ó': 'o', 'ń': 'n', 'ś': 's',
                 'ż': 'z', 'ź': 'z'}
-positions = [('osoba sprzątajaca', 400), ('pokojowy', 200), ('recepcjonista', 200),
-             ('menedzer', 100), ('kucharz', 200)]
+positions = [('osoba sprzątająca', 400), ('pokojowy', 200), ('osoba zarządzająca', 100)]
 positions_list = []
 hotel_capacity = []
 ten_rooms_capacities = [1, 1, 2, 2, 2, 3, 3, 4, 4, 5]
@@ -126,6 +125,30 @@ def random_is_occupied():
         return True
 
     return False
+
+
+def assign_workers_to_positions(workers):
+    dictionary = {'osoba sprzatajaca': [], 'pokojowy': [], 'osoba zarzadzajaca': []}
+    for worker in workers:
+        if worker.position == 'osoba sprzątająca':
+            dictionary['osoba sprzatajaca'].append(worker)
+        elif worker.position == 'pokojowy':
+            dictionary['pokojowy'].append(worker)
+        else:
+            dictionary['osoba zarzadzajaca'].append(worker)
+
+    return dictionary
+
+
+def assign_rooms_to_hotels(hotels, rooms):
+    dictionary = {}
+    for hotel in hotels:
+        dictionary[hotel.id] = []
+
+    for room in rooms:
+        dictionary[room.hotel_id].append(room)
+
+    return dictionary
 
 
 def xd():
