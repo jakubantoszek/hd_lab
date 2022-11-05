@@ -12,10 +12,10 @@ from datetime import datetime
 reservesation_chances = {0.8: 1, 0.9: 2, 0.95: 3, 0.99: 4, 1: 5}
 
 
-def create_guest_table(phones, mails, guests, number):
+def create_guest_table(phones, mails, guests, number, start_id):
     # for i in range(5000):
     for i in range(number):
-        guest = Guest(i + 1, phones, mails, None)
+        guest = Guest(i + 1 + start_id, phones, mails, None)
         phones.append(guest.phone_number)
         mails.append(guest.email)
         guests.append(guest)
@@ -27,9 +27,9 @@ def create_hotel_table(hotels_list, hotels):
         hotels_list.append(hotel)
 
 
-def create_worker_table(phones, mails, workers, number):
+def create_worker_table(phones, mails, workers, number, start_id):
     for j in range(number):
-        worker = Worker(j, phones, mails, None)
+        worker = Worker(j + start_id, phones, mails, None)
         phones.append(worker.phone_number)
         mails.append(worker.email)
         workers.append(worker)
@@ -51,13 +51,13 @@ def get_no_of_reservations():
     return 5
 
 
-def create_reservation_table(guests, period, reservations, number):
+def create_reservation_table(guests, period, reservations):
     for i in range(len(guests)):
         dates = []
         no_of_reservations = get_no_of_reservations()
 
         for j in range(no_of_reservations):
-            reservation = Reservation(len(reservations) + 1, guests[i].id, period, dates, None)
+            reservation = Reservation(len(reservations) + 1 + len(reservations), guests[i].id, period, dates, None, 194)
             reservations.append(reservation)
 
 

@@ -4,7 +4,8 @@ from create_data import *
 if __name__ == '__main__':
     get_names()
     get_surnames()
-    set_positions()
+    set_positions([400, 200, 100])
+
     phones = []
     mails = []
     dates_dict = {}
@@ -27,11 +28,11 @@ if __name__ == '__main__':
     T0 = '01-01-2020 00:00'
     T1 = '01-04-2020 00:00'
 
-    create_guest_table(phones, mails, guests, 500)
-    create_worker_table(phones, mails, workers, 700)
+    create_guest_table(phones, mails, guests, 500, 0)
+    create_worker_table(phones, mails, workers, 700, 0)
     positions_dict = assign_workers_to_positions(workers)
 
-    create_reservation_table(guests, [T0, T1], reservations, 700)
+    create_reservation_table(guests, [T0, T1], reservations)
     create_reservation_service_table(positions_dict, reservations, reservation_service)
 
     create_hotel_table(hotels, hotels_const)

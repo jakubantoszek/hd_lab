@@ -2,6 +2,7 @@ import random
 from read_bulks import *
 from update_utils import *
 from utils import *
+from create_data import *
 
 
 def update(data, prev_mails, prev_numbers, positions_dict):
@@ -9,6 +10,15 @@ def update(data, prev_mails, prev_numbers, positions_dict):
     update_workers(data['worker'], prev_mails, prev_numbers, positions_dict)
     update_reservation(data['reservation'])
     update_reservation_details(data['reservation_details'])
+
+
+def inserts(data, prev_mails, prev_numbers, positions_dict):
+    T1 = '01-04-2020 00:00'
+    T2 = '01-07-2020 00:00'
+
+    create_guest_table(prev_numbers, prev_mails, data['guest'], 50, len(data['guest']))
+    create_worker_table(prev_numbers, prev_mails, data['worker'], 70, len(data['worker']))
+    update_reservation_table(data['guest'], [T1, T2], data['reservation'], data['guest'][:500], data['guest'][500:])
 
 
 def update_guests(guests, prev_mails, prev_numbers):

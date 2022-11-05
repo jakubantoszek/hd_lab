@@ -1,700 +1,700 @@
-1|Daniel|Pawlik|daniel.pawlik@anj.pl|781139124|pokojowy
-2|Piotr|Urbañski|piotr_urbanski@anj.pl|344147613|osoba sprz¹taj¹ca
-3|Jan|Muszyñski|jan_muszynski@anj.pl|318138973|pokojowy
-4|Danuta|Pawlik|danuta_pawlik@anj.pl|869165722|osoba sprz¹taj¹ca
-5|Nikodem|Szyd³owski|nikodem-szydlowski@anj.pl|161258883|osoba sprz¹taj¹ca
-6|Grzegorz|Lewandowski|grzegorz_lewandowski@anj.pl|926295832|osoba sprz¹taj¹ca
-7|Franciszek|Mucha|franciszek.mucha@anj.pl|755731374|osoba sprz¹taj¹ca
-8|Ignacy|Karpiñski|ignacy.karpinski@anj.pl|968234953|pokojowy
-9|Emilia|Wójtowicz|emilia-wojtowicz@anj.pl|277658523|pokojowy
-10|Ryszard|Romanowski|ryszardromanowski@anj.pl|129641257|osoba sprz¹taj¹ca
-11|W³adys³awa|Zawadzka|wladyslawa.zawadzka@anj.pl|833986673|pokojowy
-12|Bogdan|Makowski|bogdanmakowski@anj.pl|171139975|osoba sprz¹taj¹ca
-13|Jolanta|Œwiderska|jolantaœwiderska@anj.pl|426826361|pokojowy
-14|Henryka|Kuczyñska|henrykakuczynska@anj.pl|763967721|pokojowy
-15|Maciej|Ratajczak|maciej.ratajczak@anj.pl|159978724|osoba sprz¹taj¹ca
-16|Leon|Sobczak|leon_sobczak@anj.pl|777427766|osoba sprz¹taj¹ca
-17|Grzegorz|Nowak|grzegorz-nowak@anj.pl|146331467|osoba sprz¹taj¹ca
-18|Szymon|Piasecki|szymon-piasecki@anj.pl|667395664|osoba sprz¹taj¹ca
-19|Czes³awa|Skiba|czeslawa.skiba@anj.pl|426852587|osoba sprz¹taj¹ca
-20|Jerzy|Kozio³|jerzykoziol@anj.pl|977416636|osoba sprz¹taj¹ca
-21|Bo¿ena|Weso³owska|bozena_wesolowska@anj.pl|884537316|osoba sprz¹taj¹ca
-22|Amelia|Szczepaniak|ameliaszczepaniak@anj.pl|426822919|osoba sprz¹taj¹ca
-23|Zenon|Witek|zenon-witek@anj.pl|232271533|osoba sprz¹taj¹ca
-24|Kamila|Kowalewska|kamila.kowalewska@anj.pl|212332586|pokojowy
-25|Kinga|Stêpieñ|kinga_stepien@anj.pl|342897724|osoba sprz¹taj¹ca
-26|Sandra|Jastrzêbska|sandra-jastrzebska@anj.pl|251939419|osoba sprz¹taj¹ca
-27|Wiktoria|Zieliñska|wiktoria-zielinska@anj.pl|995599659|osoba sprz¹taj¹ca
-28|Helena|Sikorska|helena-sikorska@anj.pl|933696812|pokojowy
-29|Edward|Sawicki|edward_sawicki@anj.pl|992124276|osoba sprz¹taj¹ca
-30|Kamil|Malinowski|kamilmalinowski@anj.pl|877569971|osoba sprz¹taj¹ca
-31|Przemys³aw|Borowski|przemyslaw-borowski@anj.pl|385831933|pokojowy
-32|El¿bieta|Kêdzierska|elzbieta_kedzierska@anj.pl|843537321|osoba sprz¹taj¹ca
-33|Jakub|Polak|jakubpolak@anj.pl|863322695|osoba sprz¹taj¹ca
-34|Irena|Markowska|irenamarkowska@anj.pl|295127736|pokojowy
-35|Krystian|Ciesielski|krystian.ciesielski@anj.pl|241756143|osoba sprz¹taj¹ca
-36|Leszek|Szulc|leszek.szulc@anj.pl|685825374|osoba sprz¹taj¹ca
-37|Kornelia|Pawlak|kornelia.pawlak@anj.pl|355467679|osoba zarz¹dzaj¹ca
-38|Bart³omiej|Rutkowski|bartlomiej.rutkowski@anj.pl|634124621|pokojowy
-39|Patrycja|Cieœlik|patrycja_cieslik@anj.pl|252728757|osoba zarz¹dzaj¹ca
-40|Mariusz|Nowakowski|mariusz_nowakowski@anj.pl|948998559|osoba sprz¹taj¹ca
-41|Martyna|Madej|martyna.madej@anj.pl|273195694|osoba sprz¹taj¹ca
-42|Laura|Grzybowska|lauragrzybowska@anj.pl|234395947|pokojowy
-43|Izabela|Pop³awska|izabela.poplawska@anj.pl|159236714|osoba sprz¹taj¹ca
-44|Julian|Ziêba|julian.zieba@anj.pl|118419838|pokojowy
-45|Bartosz|Tomaszewski|bartosz-tomaszewski@anj.pl|922425273|osoba sprz¹taj¹ca
-46|B³a¿ej|Wojciechowski|blazej.wojciechowski@anj.pl|924736464|osoba sprz¹taj¹ca
-47|Witold|Chmielewski|witold_chmielewski@anj.pl|513967944|osoba sprz¹taj¹ca
-48|Grzegorz|Wróblewski|grzegorzwroblewski@anj.pl|447678714|osoba sprz¹taj¹ca
-49|Zenon|Król|zenon-krol@anj.pl|465129973|osoba zarz¹dzaj¹ca
-50|Marek|Wójtowicz|marekwojtowicz@anj.pl|793473431|osoba sprz¹taj¹ca
-51|Dawid|Milewski|dawid_milewski@anj.pl|525823959|osoba sprz¹taj¹ca
-52|Ignacy|Janicki|ignacy-janicki@anj.pl|946342637|pokojowy
-53|S³awomir|Krzemiñski|slawomir-krzeminski@anj.pl|833427327|osoba sprz¹taj¹ca
-54|Emilia|Laskowska|emilia.laskowska@anj.pl|736185545|osoba sprz¹taj¹ca
-55|Sylwia|Wróbel|sylwia-wrobel@anj.pl|326186679|osoba sprz¹taj¹ca
-56|Bronis³aw|Kowalik|bronislaw_kowalik@anj.pl|855718553|osoba zarz¹dzaj¹ca
-57|Wies³aw|Sikorski|wieslaw-sikorski@anj.pl|895511462|osoba zarz¹dzaj¹ca
-58|Edward|Wilczyñski|edward_wilczynski@anj.pl|364221934|osoba zarz¹dzaj¹ca
-59|Marcel|Smoliñski|marcel.smolinski@anj.pl|546444274|pokojowy
-60|Zbigniew|Musia³|zbigniewmusial@anj.pl|718294241|pokojowy
-61|Kornelia|Kuczyñska|kornelia.kuczynska@anj.pl|659579538|pokojowy
-62|Sylwia|W³odarczyk|sylwia.wlodarczyk@anj.pl|643481728|osoba sprz¹taj¹ca
-63|Stanis³awa|Laskowska|stanislawa_laskowska@anj.pl|497889829|osoba sprz¹taj¹ca
-64|Aleksander|Chmiel|aleksanderchmiel@anj.pl|219638134|osoba sprz¹taj¹ca
-65|Miros³aw|Wróblewski|miroslaw_wroblewski@anj.pl|168718744|osoba sprz¹taj¹ca
-66|Zdzis³aw|£ukasik|zdzislaw³ukasik@anj.pl|248955153|osoba sprz¹taj¹ca
-67|Mateusz|Kowalczyk|mateusz_kowalczyk@anj.pl|347373614|osoba sprz¹taj¹ca
-68|Jakub|Lewandowski|jakub_lewandowski@anj.pl|372632955|pokojowy
-69|Miko³aj|Marzec|mikolaj_marzec@anj.pl|421754699|osoba sprz¹taj¹ca
-70|Stefan|Piotrowski|stefan.piotrowski@anj.pl|188314683|osoba zarz¹dzaj¹ca
-71|Fabian|Stefaniak|fabian-stefaniak@anj.pl|684869983|pokojowy
-72|Regina|Or³owska|regina_orlowska@anj.pl|716835138|osoba zarz¹dzaj¹ca
-73|Bo¿ena|Nowakowska|bozena.nowakowska@anj.pl|812243599|osoba sprz¹taj¹ca
-74|Gabriela|Wasilewska|gabriela_wasilewska@anj.pl|871715445|osoba sprz¹taj¹ca
-75|Wies³aw|Bednarski|wieslaw_bednarski@anj.pl|588581749|osoba zarz¹dzaj¹ca
-76|Bronis³aw|Andrzejewski|bronislaw_andrzejewski@anj.pl|381447191|osoba zarz¹dzaj¹ca
-77|Bogdan|Bednarski|bogdan.bednarski@anj.pl|491392881|pokojowy
-78|Janina|Urbañska|janina_urbanska@anj.pl|349439859|osoba sprz¹taj¹ca
-79|Piotr|Wawrzyniak|piotr_wawrzyniak@anj.pl|277327131|osoba zarz¹dzaj¹ca
-80|Miros³awa|Olejniczak|miroslawa_olejniczak@anj.pl|598168533|osoba sprz¹taj¹ca
-81|Wies³aw|Lipiñski|wieslaw-lipinski@anj.pl|643854715|osoba sprz¹taj¹ca
-82|Jaros³aw|B¹k|jaroslawbak@anj.pl|651662978|osoba sprz¹taj¹ca
-83|£ukasz|Owczarek|³ukasz_owczarek@anj.pl|428427464|osoba zarz¹dzaj¹ca
-84|Lena|Maj|lena_maj@anj.pl|893215918|pokojowy
-85|Sylwester|Kosiñski|sylwesterkosinski@anj.pl|262597837|osoba sprz¹taj¹ca
-86|Agata|Grabowska|agatagrabowska@anj.pl|333681966|osoba zarz¹dzaj¹ca
-87|Magdalena|Wojciechowska|magdalena.wojciechowska@anj.pl|819659593|pokojowy
-88|Jaros³aw|Zych|jaroslawzych@anj.pl|932167871|osoba sprz¹taj¹ca
-89|Justyna|Sowa|justyna-sowa@anj.pl|281619167|pokojowy
-90|Gra¿yna|Zieliñska|grazyna.zielinska@anj.pl|579823512|osoba sprz¹taj¹ca
-91|Marcel|Marzec|marcel_marzec@anj.pl|955612696|osoba sprz¹taj¹ca
-92|Sylwia|Jankowska|sylwiajankowska@anj.pl|661989597|osoba sprz¹taj¹ca
-93|Julian|Paw³owski|julianpawlowski@anj.pl|249943558|osoba sprz¹taj¹ca
-94|Stanis³awa|Borowska|stanislawa-borowska@anj.pl|866452256|osoba sprz¹taj¹ca
-95|Miros³aw|Grabowski|miroslawgrabowski@anj.pl|229238339|osoba zarz¹dzaj¹ca
-96|Fabian|Witek|fabian_witek@anj.pl|716197199|pokojowy
-97|Wojciech|Klimek|wojciech-klimek@anj.pl|463432676|osoba sprz¹taj¹ca
-98|Oliwier|Sowa|oliwiersowa@anj.pl|155836928|osoba sprz¹taj¹ca
-99|Daria|Czajka|daria_czajka@anj.pl|194399193|pokojowy
-100|Marcel|Socha|marcel-socha@anj.pl|823144449|osoba zarz¹dzaj¹ca
-101|Tymoteusz|Nowacki|tymoteusznowacki@anj.pl|432581996|pokojowy
-102|Sandra|Janowska|sandra-janowska@anj.pl|148756145|pokojowy
-103|Olga|Or³owska|olga_orlowska@anj.pl|541639427|osoba zarz¹dzaj¹ca
-104|Daria|Markiewicz|daria_markiewicz@anj.pl|349929938|osoba sprz¹taj¹ca
-105|Weronika|Bielecka|weronika.bielecka@anj.pl|528237455|osoba sprz¹taj¹ca
-106|Bogumi³a|Sroka|bogumila.sroka@anj.pl|834521695|osoba sprz¹taj¹ca
-107|Konrad|Polak|konradpolak@anj.pl|717415643|osoba sprz¹taj¹ca
-108|Beata|Laskowska|beatalaskowska@anj.pl|712133252|osoba sprz¹taj¹ca
-109|Bogus³awa|Piotrowska|boguslawa.piotrowska@anj.pl|942291396|osoba sprz¹taj¹ca
-110|£ukasz|Markowski|³ukasz_markowski@anj.pl|492685378|pokojowy
-111|Barbara|Markowska|barbara-markowska@anj.pl|517224996|pokojowy
-112|Wioleta|Nowicka|wioletanowicka@anj.pl|219623686|osoba zarz¹dzaj¹ca
-113|Dariusz|Bielecki|dariusz.bielecki@anj.pl|142866868|pokojowy
-114|Mateusz|Wojciechowski|mateusz_wojciechowski@anj.pl|548354625|osoba sprz¹taj¹ca
-115|Czes³awa|Marek|czeslawa-marek@anj.pl|471476456|osoba sprz¹taj¹ca
-116|Urszula|Maj|urszulamaj@anj.pl|924755542|osoba sprz¹taj¹ca
-117|Przemys³aw|Piekarski|przemyslaw_piekarski@anj.pl|694346975|osoba sprz¹taj¹ca
-118|Alan|Borowski|alanborowski@anj.pl|658776635|osoba sprz¹taj¹ca
-119|Czes³awa|Pluta|czeslawapluta@anj.pl|119796528|osoba sprz¹taj¹ca
-120|Oliwia|Wiœniewska|oliwia.wisniewska@anj.pl|215117277|osoba sprz¹taj¹ca
-121|Magdalena|¯ak|magdalena_¿ak@anj.pl|442633997|osoba sprz¹taj¹ca
-122|Anita|Sadowska|anita_sadowska@anj.pl|242864661|osoba sprz¹taj¹ca
-123|Mieczys³aw|Wiœniewski|mieczyslawwisniewski@anj.pl|114537545|osoba sprz¹taj¹ca
-124|Marek|Wróblewski|marek_wroblewski@anj.pl|626295491|osoba sprz¹taj¹ca
-125|Weronika|W³odarczyk|weronika-wlodarczyk@anj.pl|767777966|pokojowy
-126|Dariusz|Ma³ecki|dariusz-malecki@anj.pl|189517925|osoba sprz¹taj¹ca
-127|Beata|Soko³owska|beatasokolowska@anj.pl|528722172|osoba sprz¹taj¹ca
-128|Czes³awa|Paj¹k|czeslawa-pajak@anj.pl|425757929|pokojowy
-129|Artur|Ciesielski|arturciesielski@anj.pl|983741828|osoba sprz¹taj¹ca
-130|Nikodem|Lis|nikodem_lis@anj.pl|753455322|osoba sprz¹taj¹ca
-131|Wioleta|Skowroñska|wioleta_skowronska@anj.pl|994786673|osoba sprz¹taj¹ca
-132|Lena|KaŸmierczak|lena-kazmierczak@anj.pl|815916272|pokojowy
-133|S³awomir|Mazurek|slawomir-mazurek@anj.pl|276685924|osoba sprz¹taj¹ca
-134|Alicja|Stêpieñ|alicja-stepien@anj.pl|519343449|osoba sprz¹taj¹ca
-135|Robert|Bielecki|robert-bielecki@anj.pl|699519499|osoba sprz¹taj¹ca
-136|Aniela|Or³owska|aniela_orlowska@anj.pl|774881396|osoba sprz¹taj¹ca
-137|Nikola|Jankowska|nikolajankowska@anj.pl|192953323|osoba sprz¹taj¹ca
-138|Kazimiera|Bednarska|kazimiera_bednarska@anj.pl|962153776|pokojowy
-139|Antonina|Gajewska|antonina_gajewska@anj.pl|621594887|pokojowy
-140|Dariusz|Stankiewicz|dariusz_stankiewicz@anj.pl|878825815|osoba zarz¹dzaj¹ca
-141|Nadia|Pawlak|nadiapawlak@anj.pl|768987116|osoba zarz¹dzaj¹ca
-142|Jolanta|Cieœlik|jolanta-cieslik@anj.pl|216574869|pokojowy
-143|Antonina|Kowalewska|antonina_kowalewska@anj.pl|161845375|osoba sprz¹taj¹ca
-144|Milena|Marek|milenamarek@anj.pl|259737264|pokojowy
-145|Wioleta|Chmiel|wioleta_chmiel@anj.pl|746813888|osoba sprz¹taj¹ca
-146|Leon|Duda|leon_duda@anj.pl|479271727|osoba sprz¹taj¹ca
-147|Wioleta|Rudnicka|wioletarudnicka@anj.pl|353256436|pokojowy
-148|Michalina|Marek|michalina_marek@anj.pl|645123161|osoba sprz¹taj¹ca
-149|Jakub|Wilczyñski|jakub-wilczynski@anj.pl|542592958|osoba zarz¹dzaj¹ca
-150|Artur|JóŸwiak|arturjozwiak@anj.pl|141554936|pokojowy
-151|Bo¿ena|Pluta|bozenapluta@anj.pl|171322667|osoba sprz¹taj¹ca
-152|Gra¿yna|Krawczyk|grazyna-krawczyk@anj.pl|633787236|osoba sprz¹taj¹ca
-153|Martyna|Kwiatkowska|martyna_kwiatkowska@anj.pl|265231998|osoba zarz¹dzaj¹ca
-154|Sebastian|Szczepañski|sebastian-szczepanski@anj.pl|147214975|pokojowy
-155|Kacper|Czech|kacper.czech@anj.pl|114184247|osoba zarz¹dzaj¹ca
-156|Mieczys³aw|Król|mieczyslaw.krol@anj.pl|665273585|osoba sprz¹taj¹ca
-157|Joanna|Rutkowska|joanna-rutkowska@anj.pl|598995769|osoba zarz¹dzaj¹ca
-158|Edyta|Kozie³|edyta_koziel@anj.pl|771645622|osoba sprz¹taj¹ca
-159|Stefan|Rutkowski|stefan.rutkowski@anj.pl|112218528|osoba sprz¹taj¹ca
-160|Marzena|Madej|marzena_madej@anj.pl|588677291|osoba sprz¹taj¹ca
-161|Kazimierz|Sawicki|kazimierz_sawicki@anj.pl|615697981|pokojowy
-162|Magdalena|Lipiñska|magdalena_lipinska@anj.pl|332579548|osoba zarz¹dzaj¹ca
-163|Arkadiusz|Musia³|arkadiusz_musial@anj.pl|491594353|osoba zarz¹dzaj¹ca
-164|Artur|Sobczyk|artur_sobczyk@anj.pl|839112288|osoba sprz¹taj¹ca
-165|Agnieszka|Nowacka|agnieszkanowacka@anj.pl|537853949|osoba sprz¹taj¹ca
-166|Kacper|Nawrocki|kacper.nawrocki@anj.pl|175641381|osoba sprz¹taj¹ca
-167|Teresa|Kowalska|teresa-kowalska@anj.pl|388116352|osoba sprz¹taj¹ca
-168|Bogdan|Bukowski|bogdanbukowski@anj.pl|571641621|osoba sprz¹taj¹ca
-169|Lucyna|Lewandowska|lucyna_lewandowska@anj.pl|224593243|osoba sprz¹taj¹ca
-170|Adam|Janowski|adam.janowski@anj.pl|923658177|osoba sprz¹taj¹ca
-171|Szymon|Œwi¹tek|szymon_œwiatek@anj.pl|522679223|osoba zarz¹dzaj¹ca
-172|Janusz|Zych|januszzych@anj.pl|947487116|osoba sprz¹taj¹ca
-173|Tymoteusz|Ciesielski|tymoteuszciesielski@anj.pl|924291541|pokojowy
-174|Renata|Ciesielska|renata.ciesielska@anj.pl|235969215|osoba sprz¹taj¹ca
-175|Ewa|Adamska|ewaadamska@anj.pl|817122833|osoba zarz¹dzaj¹ca
-176|Andrzej|Turek|andrzejturek@anj.pl|361484489|osoba sprz¹taj¹ca
-177|Wojciech|Cieœlak|wojciech_cieslak@anj.pl|377491364|osoba sprz¹taj¹ca
-178|Kamila|Gajewska|kamila_gajewska@anj.pl|844368822|osoba sprz¹taj¹ca
-179|Artur|¯ak|artur¿ak@anj.pl|679843389|osoba sprz¹taj¹ca
-180|Szymon|Œwiderski|szymon.œwiderski@anj.pl|464577299|osoba zarz¹dzaj¹ca
-181|Anna|Marcinkowska|anna.marcinkowska@anj.pl|181967695|pokojowy
-182|Wiktor|Dêbski|wiktordebski@anj.pl|415495476|osoba sprz¹taj¹ca
-183|Krzysztof|Kosiñski|krzysztof-kosinski@anj.pl|259543311|pokojowy
-184|Wiktoria|Biernacka|wiktoria.biernacka@anj.pl|891261511|osoba sprz¹taj¹ca
-185|Lena|Marsza³ek|lena-marszalek@anj.pl|375719455|osoba sprz¹taj¹ca
-186|Zenon|Kowalewski|zenon.kowalewski@anj.pl|242958899|osoba sprz¹taj¹ca
-187|Sabina|Lisowska|sabina-lisowska@anj.pl|743181558|pokojowy
-188|Marlena|Grzelak|marlena.grzelak@anj.pl|747181651|osoba sprz¹taj¹ca
-189|Izabela|Pluta|izabela.pluta@anj.pl|255557786|osoba sprz¹taj¹ca
-190|W³adys³awa|Lis|wladyslawa-lis@anj.pl|476983837|osoba sprz¹taj¹ca
-191|Katarzyna|Olszewska|katarzyna-olszewska@anj.pl|658874423|pokojowy
-192|Rados³aw|Marsza³ek|radoslaw_marszalek@anj.pl|174874318|osoba sprz¹taj¹ca
-193|Maciej|Kopeæ|maciejkopec@anj.pl|771292937|pokojowy
-194|Maksymilian|Stêpieñ|maksymilianstepien@anj.pl|638691868|osoba zarz¹dzaj¹ca
-195|Wojciech|Sobolewski|wojciech.sobolewski@anj.pl|157154376|osoba sprz¹taj¹ca
-196|Nadia|Kaczor|nadia.kaczor@anj.pl|366231657|osoba sprz¹taj¹ca
-197|Dominika|Romanowska|dominikaromanowska@anj.pl|278267493|osoba zarz¹dzaj¹ca
-198|Miko³aj|Ostrowski|mikolaj-ostrowski@anj.pl|498386964|pokojowy
-199|Patrycja|Krupa|patrycjakrupa@anj.pl|666816984|osoba sprz¹taj¹ca
-200|Wioleta|Chrzanowska|wioleta.chrzanowska@anj.pl|276477121|pokojowy
-201|Hanna|Klimek|hanna.klimek@anj.pl|596151854|pokojowy
-202|Gabriel|Kamiñski|gabriel_kaminski@anj.pl|642628852|osoba zarz¹dzaj¹ca
-203|Igor|Kowal|igor-kowal@anj.pl|516478266|osoba zarz¹dzaj¹ca
-204|Jagoda|Kopeæ|jagoda.kopec@anj.pl|293688589|pokojowy
-205|Anna|Kamiñska|anna.kaminska@anj.pl|374279319|osoba sprz¹taj¹ca
-206|Zdzis³aw|Bednarek|zdzislaw-bednarek@anj.pl|778614763|osoba sprz¹taj¹ca
-207|Leon|Chrzanowski|leon-chrzanowski@anj.pl|791991398|osoba sprz¹taj¹ca
-208|Wiktor|Paw³owski|wiktor.pawlowski@anj.pl|661441824|osoba sprz¹taj¹ca
-209|Leszek|Gajewski|leszek_gajewski@anj.pl|819998455|osoba sprz¹taj¹ca
-210|Jolanta|Wieczorek|jolantawieczorek@anj.pl|445691472|osoba sprz¹taj¹ca
-211|Regina|Kucharska|regina-kucharska@anj.pl|181362938|osoba sprz¹taj¹ca
-212|Filip|Musia³|filip-musial@anj.pl|198548246|pokojowy
-213|Izabela|Wójtowicz|izabela-wojtowicz@anj.pl|866732786|osoba sprz¹taj¹ca
-214|Dominik|Adamski|dominik-adamski@anj.pl|682689599|osoba sprz¹taj¹ca
-215|Bogdan|Jaworski|bogdan_jaworski@anj.pl|754689259|osoba sprz¹taj¹ca
-216|Jan|Stasiak|janstasiak@anj.pl|723251785|osoba sprz¹taj¹ca
-217|Szymon|Kowalewski|szymon-kowalewski@anj.pl|983687945|pokojowy
-218|B³a¿ej|Cieœlik|blazej.cieslik@anj.pl|574689139|osoba sprz¹taj¹ca
-219|Sandra|Kwiecieñ|sandra_kwiecien@anj.pl|629271636|osoba sprz¹taj¹ca
-220|Julian|Nowakowski|julian.nowakowski@anj.pl|187352331|osoba sprz¹taj¹ca
-221|Oliwia|Ma³ecka|oliwia.malecka@anj.pl|565112619|osoba sprz¹taj¹ca
-222|Henryka|Micha³owska|henryka.michalowska@anj.pl|851999995|osoba sprz¹taj¹ca
-223|Franciszek|Soko³owski|franciszek-sokolowski@anj.pl|258969176|osoba zarz¹dzaj¹ca
-224|Maja|Ratajczak|majaratajczak@anj.pl|521611611|osoba sprz¹taj¹ca
-225|Justyna|¯ukowska|justyna.¿ukowska@anj.pl|389113987|osoba sprz¹taj¹ca
-226|Iwona|Kasprzak|iwona-kasprzak@anj.pl|161914381|osoba zarz¹dzaj¹ca
-227|Urszula|Szczepañska|urszulaszczepanska@anj.pl|431761884|osoba sprz¹taj¹ca
-228|Lena|Skiba|lena-skiba@anj.pl|254836848|pokojowy
-229|Teresa|Wojciechowska|teresa_wojciechowska@anj.pl|942872181|osoba sprz¹taj¹ca
-230|Jadwiga|Ostrowska|jadwiga-ostrowska@anj.pl|671568816|osoba sprz¹taj¹ca
-231|Stefania|Lisowska|stefanialisowska@anj.pl|443379398|osoba sprz¹taj¹ca
-232|Artur|Michalski|artur_michalski@anj.pl|271741761|osoba sprz¹taj¹ca
-233|W³odzimierz|Mróz|wlodzimierzmroz@anj.pl|962162983|osoba zarz¹dzaj¹ca
-234|El¿bieta|Bednarczyk|elzbietabednarczyk@anj.pl|934669186|pokojowy
-235|Tymoteusz|Sawicki|tymoteusz-sawicki@anj.pl|669582967|osoba sprz¹taj¹ca
-236|Bogdan|Ziêba|bogdanzieba@anj.pl|923937798|pokojowy
-237|Piotr|Madej|piotr-madej@anj.pl|633168844|osoba zarz¹dzaj¹ca
-238|Jacek|Kowalewski|jacek_kowalewski@anj.pl|225336369|osoba zarz¹dzaj¹ca
-239|Józefa|Zieliñska|jozefa-zielinska@anj.pl|769945776|osoba sprz¹taj¹ca
-240|Jan|Szulc|jan-szulc@anj.pl|956176793|osoba sprz¹taj¹ca
-241|Irena|Jab³oñska|irena-jablonska@anj.pl|849762593|osoba sprz¹taj¹ca
-242|Fabian|Musia³|fabian.musial@anj.pl|535728478|pokojowy
-243|Jagoda|Orzechowska|jagodaorzechowska@anj.pl|116526323|pokojowy
-244|Jerzy|Kowalewski|jerzy_kowalewski@anj.pl|895831772|pokojowy
-245|Ewelina|¯ak|ewelina.¿ak@anj.pl|943194567|pokojowy
-246|Mariusz|Wrona|mariuszwrona@anj.pl|415824552|pokojowy
-247|Cezary|Król|cezary_krol@anj.pl|688634832|osoba sprz¹taj¹ca
-248|Hanna|Rudnicka|hannarudnicka@anj.pl|698957227|pokojowy
-249|Monika|Tomczak|monika-tomczak@anj.pl|685553931|osoba sprz¹taj¹ca
-250|Martyna|Marciniak|martyna.marciniak@anj.pl|983627723|osoba sprz¹taj¹ca
-251|Maciej|Krawczyk|maciej-krawczyk@anj.pl|425737544|osoba sprz¹taj¹ca
-252|Gra¿yna|Janik|grazyna-janik@anj.pl|419677197|osoba zarz¹dzaj¹ca
-253|Artur|Chmiel|artur_chmiel@anj.pl|466126989|osoba sprz¹taj¹ca
-254|Julia|Konieczna|julia.konieczna@anj.pl|954587815|pokojowy
-255|Jacek|Wróblewski|jacekwroblewski@anj.pl|794742163|osoba sprz¹taj¹ca
-256|Izabela|Szczepaniak|izabela-szczepaniak@anj.pl|749533435|osoba sprz¹taj¹ca
-257|Renata|Kwiatkowska|renata-kwiatkowska@anj.pl|181169363|osoba sprz¹taj¹ca
-258|Julian|Matusiak|julianmatusiak@anj.pl|874698628|osoba sprz¹taj¹ca
-259|B³a¿ej|Grzybowski|blazej_grzybowski@anj.pl|914853313|osoba sprz¹taj¹ca
-260|Iwona|Ma³ecka|iwona-malecka@anj.pl|993439368|osoba sprz¹taj¹ca
-261|Lidia|Karpiñska|lidia_karpinska@anj.pl|692462145|pokojowy
-262|Nina|Owczarek|nina.owczarek@anj.pl|254498698|osoba sprz¹taj¹ca
-263|Marzena|Romanowska|marzena_romanowska@anj.pl|542672926|osoba sprz¹taj¹ca
-264|Mateusz|Wilczyñski|mateusz.wilczynski@anj.pl|357561353|osoba sprz¹taj¹ca
-265|Kinga|Witkowska|kinga-witkowska@anj.pl|924133859|pokojowy
-266|Julian|Bia³ek|julianbialek@anj.pl|394485395|osoba zarz¹dzaj¹ca
-267|Konrad|Urbaniak|konrad.urbaniak@anj.pl|457855119|osoba sprz¹taj¹ca
-268|Tomasz|Król|tomasz_krol@anj.pl|861716194|osoba sprz¹taj¹ca
-269|Leszek|Borkowski|leszekborkowski@anj.pl|659799426|osoba sprz¹taj¹ca
-270|Monika|B¹k|monikabak@anj.pl|277361512|osoba sprz¹taj¹ca
-271|Michalina|Wiœniewska|michalinawisniewska@anj.pl|492824743|osoba sprz¹taj¹ca
-272|Ma³gorzata|Nowak|malgorzata_nowak@anj.pl|817772425|osoba sprz¹taj¹ca
-273|Janusz|Duda|januszduda@anj.pl|752251718|osoba sprz¹taj¹ca
-274|Wiktor|Sobczak|wiktorsobczak@anj.pl|859837491|osoba zarz¹dzaj¹ca
-275|Oskar|Adamski|oskar.adamski@anj.pl|371781366|pokojowy
-276|Urszula|Turek|urszula.turek@anj.pl|239995534|pokojowy
-277|Justyna|Mróz|justynamroz@anj.pl|816576394|osoba sprz¹taj¹ca
-278|Marianna|Sawicka|marianna-sawicka@anj.pl|748776282|osoba sprz¹taj¹ca
-279|Dorota|Chojnacka|dorota_chojnacka@anj.pl|661928459|pokojowy
-280|Jolanta|Piekarska|jolanta_piekarska@anj.pl|353499111|osoba sprz¹taj¹ca
-281|Marek|Maciejewski|marek-maciejewski@anj.pl|199883931|osoba zarz¹dzaj¹ca
-282|Amelia|Król|amelia_krol@anj.pl|551161392|pokojowy
-283|Jadwiga|Stankiewicz|jadwiga.stankiewicz@anj.pl|468146289|pokojowy
-284|Nadia|Przybylska|nadia-przybylska@anj.pl|195919194|pokojowy
-285|Ewa|Leœniak|ewa.lesniak@anj.pl|421669611|pokojowy
-286|Igor|¯ukowski|igor_¿ukowski@anj.pl|576438221|osoba sprz¹taj¹ca
-287|Michalina|Mazurkiewicz|michalina-mazurkiewicz@anj.pl|334264559|osoba sprz¹taj¹ca
-288|Mariola|¯ukowska|mariola¿ukowska@anj.pl|528625884|pokojowy
-289|Ewelina|Kamiñska|ewelina-kaminska@anj.pl|262472239|pokojowy
-290|Janina|Lech|janina-lech@anj.pl|773757347|osoba sprz¹taj¹ca
-291|Mieczys³aw|Szymczak|mieczyslaw_szymczak@anj.pl|995853546|osoba sprz¹taj¹ca
-292|Emil|Jasiñski|emiljasinski@anj.pl|865762268|osoba sprz¹taj¹ca
-293|Leszek|Sobczak|leszek-sobczak@anj.pl|548587836|pokojowy
-294|Henryk|Lisowski|henryk.lisowski@anj.pl|626893535|osoba sprz¹taj¹ca
-295|Rados³aw|Wojciechowski|radoslaw-wojciechowski@anj.pl|493461582|osoba sprz¹taj¹ca
-296|Kamil|Chmiel|kamilchmiel@anj.pl|529942272|osoba sprz¹taj¹ca
-297|Zenon|Kulesza|zenonkulesza@anj.pl|414718686|osoba sprz¹taj¹ca
-298|Cezary|Œliwa|cezary_œliwa@anj.pl|852314468|osoba sprz¹taj¹ca
-299|Aniela|Urbaniak|anielaurbaniak@anj.pl|375163746|osoba sprz¹taj¹ca
-300|Grzegorz|Szczêsny|grzegorz.szczesny@anj.pl|645626893|osoba sprz¹taj¹ca
-301|Ignacy|Sikorski|ignacy-sikorski@anj.pl|676787171|pokojowy
-302|Mariusz|Olejnik|mariusz-olejnik@anj.pl|321782261|osoba sprz¹taj¹ca
-303|Henryka|Baranowska|henrykabaranowska@anj.pl|218567894|osoba zarz¹dzaj¹ca
-304|Angelika|Kozie³|angelika-koziel@anj.pl|625774367|osoba sprz¹taj¹ca
-305|Michalina|Koz³owska|michalinakozlowska@anj.pl|678461636|pokojowy
-306|Antonina|Kopeæ|antonina-kopec@anj.pl|686631112|pokojowy
-307|W³adys³aw|Nowakowski|wladyslawnowakowski@anj.pl|665985615|osoba sprz¹taj¹ca
-308|Olga|Ciesielska|olgaciesielska@anj.pl|511281696|osoba sprz¹taj¹ca
-309|Laura|Bednarek|laurabednarek@anj.pl|285616226|osoba sprz¹taj¹ca
-310|Daniel|Dziedzic|daniel.dziedzic@anj.pl|553978933|osoba zarz¹dzaj¹ca
-311|Damian|Grabowski|damian.grabowski@anj.pl|528291417|pokojowy
-312|Agnieszka|B¹k|agnieszka.bak@anj.pl|899539727|osoba sprz¹taj¹ca
-313|Arkadiusz|Sawicki|arkadiusz_sawicki@anj.pl|414829388|osoba sprz¹taj¹ca
-314|Filip|Leœniak|filip-lesniak@anj.pl|517499327|osoba sprz¹taj¹ca
-315|Daniel|Marzec|daniel_marzec@anj.pl|599441138|osoba sprz¹taj¹ca
-316|Witold|Orzechowski|witoldorzechowski@anj.pl|656116576|pokojowy
-317|Milena|¯ak|milena_¿ak@anj.pl|729471788|osoba sprz¹taj¹ca
-318|Wiktoria|Zawadzka|wiktoriazawadzka@anj.pl|248125321|osoba zarz¹dzaj¹ca
-319|Sabina|Lech|sabinalech@anj.pl|433743271|osoba sprz¹taj¹ca
-320|Sabina|Mazur|sabina.mazur@anj.pl|577367685|osoba zarz¹dzaj¹ca
-321|Iwona|Baran|iwona-baran@anj.pl|242543767|osoba sprz¹taj¹ca
-322|Bartosz|Dziedzic|bartosz.dziedzic@anj.pl|923822154|pokojowy
-323|Agata|Szymañska|agataszymanska@anj.pl|783837975|osoba zarz¹dzaj¹ca
-324|Lena|Lisowska|lenalisowska@anj.pl|148346511|pokojowy
-325|Witold|Sadowski|witold-sadowski@anj.pl|666122588|pokojowy
-326|Wiktor|Rybak|wiktor_rybak@anj.pl|227863727|pokojowy
-327|Mateusz|Piekarski|mateusz_piekarski@anj.pl|471662194|osoba sprz¹taj¹ca
-328|Gabriela|Lewicka|gabriela-lewicka@anj.pl|185617716|pokojowy
-329|Wiktor|Nowicki|wiktor_nowicki@anj.pl|534398253|osoba zarz¹dzaj¹ca
-330|Angelika|Tomczak|angelikatomczak@anj.pl|648776128|osoba sprz¹taj¹ca
-331|Barbara|Bednarska|barbara_bednarska@anj.pl|953487271|osoba sprz¹taj¹ca
-332|Gabriela|Duda|gabrieladuda@anj.pl|515675492|osoba sprz¹taj¹ca
-333|Daria|Stêpieñ|daria-stepien@anj.pl|894869718|osoba sprz¹taj¹ca
-334|Aleksandra|Zió³kowska|aleksandra-ziolkowska@anj.pl|782116999|osoba sprz¹taj¹ca
-335|Teresa|Leœniak|teresa-lesniak@anj.pl|675757748|pokojowy
-336|Dorota|Dudek|dorota.dudek@anj.pl|439561345|osoba sprz¹taj¹ca
-337|Bartosz|Ma³ek|bartoszmalek@anj.pl|745967612|osoba sprz¹taj¹ca
-338|Dariusz|Kosiñski|dariusz_kosinski@anj.pl|117734795|osoba sprz¹taj¹ca
-339|Józefa|Pietrzak|jozefa.pietrzak@anj.pl|775644941|pokojowy
-340|Helena|Andrzejewska|helena.andrzejewska@anj.pl|281258576|osoba sprz¹taj¹ca
-341|Ignacy|Jastrzêbski|ignacy-jastrzebski@anj.pl|725859867|osoba sprz¹taj¹ca
-342|Zygmunt|Czarnecki|zygmunt_czarnecki@anj.pl|352432798|pokojowy
-343|Alicja|Osiñska|alicjaosinska@anj.pl|666397562|pokojowy
-344|Agnieszka|Matuszewska|agnieszka.matuszewska@anj.pl|764976369|pokojowy
-345|Witold|Kubicki|witold-kubicki@anj.pl|916794397|pokojowy
-346|Wojciech|Wilk|wojciech-wilk@anj.pl|785976638|osoba zarz¹dzaj¹ca
-347|Regina|Sikora|regina_sikora@anj.pl|957938917|osoba sprz¹taj¹ca
-348|Jakub|Wójcik|jakub_wojcik@anj.pl|667791549|pokojowy
-349|Julia|Lis|julia_lis@anj.pl|825666686|osoba zarz¹dzaj¹ca
-350|Jacek|Konieczny|jacekkonieczny@anj.pl|383632362|osoba sprz¹taj¹ca
-351|Aleksandra|Kowalik|aleksandra.kowalik@anj.pl|112326484|osoba sprz¹taj¹ca
-352|Wiktoria|Król|wiktoriakrol@anj.pl|337886834|osoba sprz¹taj¹ca
-353|Janusz|Zych|janusz_zych@anj.pl|911682732|osoba sprz¹taj¹ca
-354|Danuta|Ciesielska|danuta_ciesielska@anj.pl|267612247|osoba zarz¹dzaj¹ca
-355|Urszula|Muszyñska|urszula_muszynska@anj.pl|454231551|osoba sprz¹taj¹ca
-356|Czes³aw|Jarosz|czeslaw-jarosz@anj.pl|943851183|pokojowy
-357|Marta|Jaworska|marta-jaworska@anj.pl|473468585|osoba sprz¹taj¹ca
-358|Paulina|Wierzbicka|paulina-wierzbicka@anj.pl|347974626|osoba zarz¹dzaj¹ca
-359|Ireneusz|Ziêba|ireneusz_zieba@anj.pl|197329368|osoba sprz¹taj¹ca
-360|Piotr|Dudek|piotr-dudek@anj.pl|382797881|pokojowy
-361|Tymoteusz|Kubiak|tymoteusz_kubiak@anj.pl|646422528|pokojowy
-362|Antoni|Janiszewski|antoni.janiszewski@anj.pl|892562193|osoba sprz¹taj¹ca
-363|Damian|Wieczorek|damian.wieczorek@anj.pl|889836988|pokojowy
-364|Laura|Urbañska|laura-urbanska@anj.pl|156642825|pokojowy
-365|Wies³aw|Ostrowski|wieslaw-ostrowski@anj.pl|676853338|pokojowy
-366|Mariusz|Cieœlak|mariusz_cieslak@anj.pl|913851991|osoba sprz¹taj¹ca
-367|Szymon|Mazur|szymon-mazur@anj.pl|754216313|osoba sprz¹taj¹ca
-368|Dariusz|Mazurek|dariusz.mazurek@anj.pl|876224547|osoba sprz¹taj¹ca
-369|El¿bieta|Kasprzak|elzbieta_kasprzak@anj.pl|456512993|osoba zarz¹dzaj¹ca
-370|Miros³awa|Janik|miroslawa-janik@anj.pl|681692222|pokojowy
-371|Hanna|Kozak|hannakozak@anj.pl|228344615|pokojowy
-372|Zuzanna|Wawrzyniak|zuzanna.wawrzyniak@anj.pl|644496444|osoba zarz¹dzaj¹ca
-373|Grzegorz|Bia³ek|grzegorz_bialek@anj.pl|643742392|pokojowy
-374|Patryk|Czerwiñski|patryk.czerwinski@anj.pl|132121745|osoba zarz¹dzaj¹ca
-375|Bart³omiej|Skiba|bartlomiejskiba@anj.pl|226336365|osoba zarz¹dzaj¹ca
-376|Joanna|Wolska|joannawolska@anj.pl|134841831|pokojowy
-377|Aniela|Marzec|anielamarzec@anj.pl|211934235|osoba zarz¹dzaj¹ca
-378|S³awomir|Stasiak|slawomir-stasiak@anj.pl|981695392|osoba sprz¹taj¹ca
-379|Cezary|Mucha|cezary_mucha@anj.pl|441214557|osoba sprz¹taj¹ca
-380|Izabela|Witek|izabelawitek@anj.pl|661169786|osoba zarz¹dzaj¹ca
-381|Laura|Markowska|laura_markowska@anj.pl|333734887|osoba zarz¹dzaj¹ca
-382|Marek|Zió³kowski|marek-ziolkowski@anj.pl|132657213|pokojowy
-383|Lidia|Ciesielska|lidia.ciesielska@anj.pl|116115946|osoba sprz¹taj¹ca
-384|Emil|Wróblewski|emil-wroblewski@anj.pl|375815277|osoba sprz¹taj¹ca
-385|Oliwia|Karpiñska|oliwia.karpinska@anj.pl|645631952|osoba sprz¹taj¹ca
-386|Maria|Rybak|maria-rybak@anj.pl|893319916|osoba sprz¹taj¹ca
-387|Maja|Œwi¹tek|maja-œwiatek@anj.pl|136632838|pokojowy
-388|Mateusz|Œwi¹tek|mateusz.œwiatek@anj.pl|656711822|osoba sprz¹taj¹ca
-389|Czes³aw|Kowalski|czeslaw_kowalski@anj.pl|929297672|osoba sprz¹taj¹ca
-390|Teresa|Marciniak|teresamarciniak@anj.pl|454919542|osoba zarz¹dzaj¹ca
-391|Sebastian|Soko³owski|sebastian_sokolowski@anj.pl|178917447|osoba zarz¹dzaj¹ca
-392|Wiktor|Krzemiñski|wiktorkrzeminski@anj.pl|343248522|osoba sprz¹taj¹ca
-393|Wiktoria|Dêbska|wiktoria-debska@anj.pl|462459333|osoba sprz¹taj¹ca
-394|W³adys³aw|Kaczor|wladyslaw_kaczor@anj.pl|348841591|osoba sprz¹taj¹ca
-395|Natalia|B³aszczyk|natalia.blaszczyk@anj.pl|386663516|osoba sprz¹taj¹ca
-396|Dominika|Rogowska|dominika_rogowska@anj.pl|699357938|osoba sprz¹taj¹ca
-397|Mariusz|Laskowski|mariusz_laskowski@anj.pl|154655779|pokojowy
-398|Stanis³awa|Kowalik|stanislawa_kowalik@anj.pl|152429473|osoba sprz¹taj¹ca
-399|Witold|Madej|witold_madej@anj.pl|383326391|osoba zarz¹dzaj¹ca
-400|Patrycja|Kowalczyk|patrycja-kowalczyk@anj.pl|572544712|osoba sprz¹taj¹ca
-401|Aniela|Go³êbiewska|aniela_golebiewska@anj.pl|389912616|pokojowy
-402|Tomasz|Skowroñski|tomaszskowronski@anj.pl|612235881|osoba sprz¹taj¹ca
-403|Maria|Wrona|mariawrona@anj.pl|778472563|osoba sprz¹taj¹ca
-404|Maja|Bukowska|maja.bukowska@anj.pl|121514917|pokojowy
-405|Kazimiera|Cieœlik|kazimiera-cieslik@anj.pl|291622862|osoba sprz¹taj¹ca
-406|Witold|Adamczyk|witold.adamczyk@anj.pl|193442483|osoba sprz¹taj¹ca
-407|Antonina|Kucharska|antonina-kucharska@anj.pl|617152182|osoba sprz¹taj¹ca
-408|Teresa|Majchrzak|teresa_majchrzak@anj.pl|189482265|pokojowy
-409|Eryk|Janiszewski|eryk-janiszewski@anj.pl|993888722|osoba sprz¹taj¹ca
-410|Irena|Rudnicka|irena.rudnicka@anj.pl|765279489|pokojowy
-411|Ryszard|Œwi¹tek|ryszard_œwiatek@anj.pl|141139193|pokojowy
-412|Konrad|Wróbel|konradwrobel@anj.pl|876811628|osoba zarz¹dzaj¹ca
-413|Marcin|Lipiñski|marcinlipinski@anj.pl|819619384|osoba sprz¹taj¹ca
-414|Kamila|Adamczyk|kamila_adamczyk@anj.pl|359888538|osoba zarz¹dzaj¹ca
-415|Sandra|Pietrzak|sandrapietrzak@anj.pl|643948247|osoba sprz¹taj¹ca
-416|Mariusz|Witek|mariusz_witek@anj.pl|526783272|osoba sprz¹taj¹ca
-417|Józefa|Stasiak|jozefa_stasiak@anj.pl|299422765|pokojowy
-418|Marcin|Chojnacki|marcin-chojnacki@anj.pl|374946158|osoba sprz¹taj¹ca
-419|Emilia|Jastrzêbska|emilia-jastrzebska@anj.pl|436151339|osoba sprz¹taj¹ca
-420|Aleksandra|Leszczyñska|aleksandra.leszczynska@anj.pl|792821592|osoba sprz¹taj¹ca
-421|Sebastian|Laskowski|sebastian_laskowski@anj.pl|215734514|osoba sprz¹taj¹ca
-422|Dawid|Kozak|dawid_kozak@anj.pl|968728992|pokojowy
-423|Pawe³|Wysocki|pawel_wysocki@anj.pl|841213181|osoba zarz¹dzaj¹ca
-424|Kornelia|Duda|kornelia.duda@anj.pl|641761356|pokojowy
-425|Wioletta|Œwiderska|wiolettaœwiderska@anj.pl|532425756|pokojowy
-426|Henryka|Dudek|henryka_dudek@anj.pl|216172536|osoba zarz¹dzaj¹ca
-427|Henryka|Król|henryka_krol@anj.pl|142386439|osoba sprz¹taj¹ca
-428|Izabela|Pawlik|izabela-pawlik@anj.pl|599159223|osoba sprz¹taj¹ca
-429|Agata|Kruk|agata-kruk@anj.pl|434235126|osoba sprz¹taj¹ca
-430|Alan|Adamski|alan_adamski@anj.pl|385816643|osoba sprz¹taj¹ca
-431|Stefan|Socha|stefansocha@anj.pl|492167433|pokojowy
-432|Martyna|Osiñska|martyna-osinska@anj.pl|491776261|osoba sprz¹taj¹ca
-433|Bronis³aw|Dobrowolski|bronislaw-dobrowolski@anj.pl|785121247|pokojowy
-434|Norbert|Szczêsny|norbert_szczesny@anj.pl|312627822|pokojowy
-435|Julian|Kwiatkowski|julian.kwiatkowski@anj.pl|894369465|osoba sprz¹taj¹ca
-436|Stefan|Rutkowski|stefan-rutkowski@anj.pl|913889747|osoba sprz¹taj¹ca
-437|Jaros³aw|Micha³owski|jaroslaw.michalowski@anj.pl|247486333|osoba zarz¹dzaj¹ca
-438|£ukasz|Cieœlak|³ukasz-cieslak@anj.pl|825382896|osoba sprz¹taj¹ca
-439|Dawid|Matusiak|dawid.matusiak@anj.pl|243168942|pokojowy
-440|Jacek|Tomczyk|jacek-tomczyk@anj.pl|245697447|osoba sprz¹taj¹ca
-441|Krzysztof|Kurek|krzysztof.kurek@anj.pl|135858697|pokojowy
-442|Dominik|Konieczny|dominik-konieczny@anj.pl|564327263|osoba sprz¹taj¹ca
-443|Amelia|Skiba|amelia_skiba@anj.pl|798646595|pokojowy
-444|Laura|Kurek|laurakurek@anj.pl|931279357|osoba sprz¹taj¹ca
-445|Emil|Kubicki|emil-kubicki@anj.pl|913111227|osoba sprz¹taj¹ca
-446|Oskar|Sawicki|oskarsawicki@anj.pl|313378319|osoba sprz¹taj¹ca
-447|Karolina|Ratajczak|karolina-ratajczak@anj.pl|284953799|pokojowy
-448|Zdzis³aw|JóŸwiak|zdzislaw-jozwiak@anj.pl|969583746|osoba sprz¹taj¹ca
-449|Hubert|Urbañski|hubert.urbanski@anj.pl|985952711|osoba zarz¹dzaj¹ca
-450|Wojciech|Baran|wojciech-baran@anj.pl|175455374|osoba sprz¹taj¹ca
-451|Irena|Rutkowska|irenarutkowska@anj.pl|826989324|osoba sprz¹taj¹ca
-452|Genowefa|Lewicka|genowefa_lewicka@anj.pl|926673936|osoba sprz¹taj¹ca
-453|Gabriela|Wrona|gabrielawrona@anj.pl|859427727|pokojowy
-454|£ucja|Król|³ucja_krol@anj.pl|427236519|pokojowy
-455|Rafa³|Malinowski|rafal-malinowski@anj.pl|752438197|osoba sprz¹taj¹ca
-456|Kazimierz|Marek|kazimierz_marek@anj.pl|582882183|osoba sprz¹taj¹ca
-457|Bartosz|Ostrowski|bartosz.ostrowski@anj.pl|815122938|osoba zarz¹dzaj¹ca
-458|Maria|Barañska|maria.baranska@anj.pl|292517852|pokojowy
-459|Stefan|Œliwiñski|stefan_œliwinski@anj.pl|642349281|osoba zarz¹dzaj¹ca
-460|Witold|Walczak|witoldwalczak@anj.pl|173715581|osoba sprz¹taj¹ca
-461|Szymon|Dêbski|szymondebski@anj.pl|829768896|osoba sprz¹taj¹ca
-462|Arkadiusz|¯ukowski|arkadiusz¿ukowski@anj.pl|444837448|osoba sprz¹taj¹ca
-463|Monika|Wójtowicz|monika-wojtowicz@anj.pl|571687883|pokojowy
-464|Lidia|Piotrowska|lidiapiotrowska@anj.pl|624722645|pokojowy
-465|Genowefa|¯ukowska|genowefa¿ukowska@anj.pl|959335896|pokojowy
-466|Paulina|Mazurkiewicz|paulinamazurkiewicz@anj.pl|512785673|pokojowy
-467|Lucyna|Kasprzyk|lucynakasprzyk@anj.pl|357264312|osoba sprz¹taj¹ca
-468|Patryk|Lis|patryk.lis@anj.pl|343411155|osoba sprz¹taj¹ca
-469|W³adys³awa|Kozie³|wladyslawa_koziel@anj.pl|373491189|pokojowy
-470|Jolanta|Pawlik|jolanta.pawlik@anj.pl|441825368|pokojowy
-471|Grzegorz|Stankiewicz|grzegorz.stankiewicz@anj.pl|781171842|osoba zarz¹dzaj¹ca
-472|Miros³awa|Madej|miroslawa.madej@anj.pl|825834685|pokojowy
-473|Krzysztof|Chojnacki|krzysztof.chojnacki@anj.pl|227217227|osoba sprz¹taj¹ca
-474|Ryszard|Ma³ecki|ryszardmalecki@anj.pl|288212775|osoba sprz¹taj¹ca
-475|Tadeusz|Malinowski|tadeusz-malinowski@anj.pl|814861896|pokojowy
-476|Oliwier|Szczepañski|oliwier_szczepanski@anj.pl|996164551|osoba zarz¹dzaj¹ca
-477|Jerzy|Nowicki|jerzy-nowicki@anj.pl|172922221|pokojowy
-478|Urszula|Madej|urszulamadej@anj.pl|126617757|osoba sprz¹taj¹ca
-479|Józef|Rogowski|jozef_rogowski@anj.pl|113385432|osoba sprz¹taj¹ca
-480|Mieczys³aw|Mucha|mieczyslaw_mucha@anj.pl|544892217|osoba sprz¹taj¹ca
-481|Kamil|Zaj¹c|kamilzajac@anj.pl|273664917|osoba zarz¹dzaj¹ca
-482|Sylwia|Pawlik|sylwiapawlik@anj.pl|533637887|pokojowy
-483|Stefania|Przybysz|stefania.przybysz@anj.pl|648836942|osoba sprz¹taj¹ca
-484|Tadeusz|Piekarski|tadeusz.piekarski@anj.pl|649633892|osoba sprz¹taj¹ca
-485|Leon|Sadowski|leon-sadowski@anj.pl|953895983|pokojowy
-486|Dariusz|Krajewski|dariusz.krajewski@anj.pl|221591886|osoba sprz¹taj¹ca
-487|W³adys³awa|Mazurkiewicz|wladyslawa_mazurkiewicz@anj.pl|587839143|osoba sprz¹taj¹ca
-488|Hanna|Jab³oñska|hannajablonska@anj.pl|185392215|pokojowy
-489|Nikodem|Kot|nikodem_kot@anj.pl|444516891|osoba zarz¹dzaj¹ca
-490|Filip|Andrzejewski|filip-andrzejewski@anj.pl|472447215|osoba sprz¹taj¹ca
-491|Laura|Milewska|laura.milewska@anj.pl|193675287|osoba sprz¹taj¹ca
-492|Eryk|Borowski|eryk_borowski@anj.pl|462546353|pokojowy
-493|Kinga|Stêpieñ|kingastepien@anj.pl|463288196|pokojowy
-494|Klaudia|Wierzbicka|klaudiawierzbicka@anj.pl|296457842|osoba sprz¹taj¹ca
-495|Zofia|Kowalewska|zofia.kowalewska@anj.pl|853437624|osoba sprz¹taj¹ca
-496|Regina|Piotrowska|regina_piotrowska@anj.pl|835266273|osoba sprz¹taj¹ca
-497|Aleksander|Socha|aleksander_socha@anj.pl|762488731|osoba sprz¹taj¹ca
-498|Renata|Baran|renata-baran@anj.pl|231555848|pokojowy
-499|Kamil|Sawicki|kamil-sawicki@anj.pl|918629399|osoba zarz¹dzaj¹ca
-500|Aneta|Nowakowska|aneta_nowakowska@anj.pl|795431197|osoba sprz¹taj¹ca
-501|Wojciech|¯ukowski|wojciech_¿ukowski@anj.pl|149843949|osoba sprz¹taj¹ca
-502|Antonina|Wawrzyniak|antonina.wawrzyniak@anj.pl|379748439|osoba sprz¹taj¹ca
-503|Stanis³awa|Kucharska|stanislawa_kucharska@anj.pl|515544191|osoba sprz¹taj¹ca
-504|Lidia|Wieczorek|lidiawieczorek@anj.pl|476811276|osoba sprz¹taj¹ca
-505|Szymon|Karpiñski|szymon-karpinski@anj.pl|637867989|osoba sprz¹taj¹ca
-506|Aneta|Go³êbiewska|aneta_golebiewska@anj.pl|536696927|pokojowy
-507|Bogdan|Leszczyñski|bogdan-leszczynski@anj.pl|567343258|osoba sprz¹taj¹ca
-508|Wiktor|Lipiñski|wiktorlipinski@anj.pl|688395344|osoba sprz¹taj¹ca
-509|Arkadiusz|Dudek|arkadiuszdudek@anj.pl|135187962|pokojowy
-510|Dawid|Zalewski|dawid.zalewski@anj.pl|962647786|pokojowy
-511|Jadwiga|Tomczak|jadwiga_tomczak@anj.pl|615971385|pokojowy
-512|B³a¿ej|Stefañski|blazej.stefanski@anj.pl|798555486|osoba sprz¹taj¹ca
-513|Aniela|Rudnicka|aniela-rudnicka@anj.pl|641714936|osoba sprz¹taj¹ca
-514|Hubert|Duda|hubert_duda@anj.pl|296213663|osoba sprz¹taj¹ca
-515|Marcin|Kot|marcin_kot@anj.pl|758855855|osoba sprz¹taj¹ca
-516|Izabela|Osiñska|izabela.osinska@anj.pl|848391651|osoba sprz¹taj¹ca
-517|Wiktor|Rutkowski|wiktor_rutkowski@anj.pl|734114325|osoba sprz¹taj¹ca
-518|Alicja|Sikora|alicja_sikora@anj.pl|396383449|osoba sprz¹taj¹ca
-519|Ilona|Adamska|ilonaadamska@anj.pl|762289189|osoba sprz¹taj¹ca
-520|Ma³gorzata|Rybak|malgorzata-rybak@anj.pl|159239521|osoba zarz¹dzaj¹ca
-521|Igor|Grabowski|igor.grabowski@anj.pl|495655712|osoba zarz¹dzaj¹ca
-522|Rafa³|Sobczyk|rafal-sobczyk@anj.pl|769365959|osoba sprz¹taj¹ca
-523|Stefan|Wójcik|stefan.wojcik@anj.pl|799636357|osoba zarz¹dzaj¹ca
-524|Miros³aw|Witkowski|miroslaw.witkowski@anj.pl|836611847|osoba sprz¹taj¹ca
-525|Oliwier|Cieœlik|oliwier.cieslik@anj.pl|636561726|osoba zarz¹dzaj¹ca
-526|Helena|Urbañska|helena_urbanska@anj.pl|621255225|pokojowy
-527|Franciszek|Urban|franciszek_urban@anj.pl|842881372|pokojowy
-528|Stefan|Ratajczak|stefanratajczak@anj.pl|286885661|pokojowy
-529|Jolanta|Czech|jolanta-czech@anj.pl|465524192|pokojowy
-530|Wioletta|Kucharska|wioletta_kucharska@anj.pl|427497275|pokojowy
-531|Olga|Mazurkiewicz|olga-mazurkiewicz@anj.pl|862255641|osoba sprz¹taj¹ca
-532|Stefania|Romanowska|stefania.romanowska@anj.pl|757233935|pokojowy
-533|Wies³aw|Dobrowolski|wieslawdobrowolski@anj.pl|945685485|osoba sprz¹taj¹ca
-534|Adrian|Nawrocki|adrian_nawrocki@anj.pl|694347953|osoba sprz¹taj¹ca
-535|Miko³aj|Szczepañski|mikolaj_szczepanski@anj.pl|526654184|osoba zarz¹dzaj¹ca
-536|S³awomir|Jakubowski|slawomir-jakubowski@anj.pl|666823721|osoba sprz¹taj¹ca
-537|Jadwiga|Król|jadwigakrol@anj.pl|249342298|osoba zarz¹dzaj¹ca
-538|Janina|Mazurkiewicz|janina.mazurkiewicz@anj.pl|462228787|osoba sprz¹taj¹ca
-539|Ireneusz|Koz³owski|ireneuszkozlowski@anj.pl|754887259|osoba sprz¹taj¹ca
-540|Nikodem|Laskowski|nikodemlaskowski@anj.pl|888999437|pokojowy
-541|Dominika|Dêbska|dominika.debska@anj.pl|447639938|osoba sprz¹taj¹ca
-542|Genowefa|Wasilewska|genowefa_wasilewska@anj.pl|293379377|osoba sprz¹taj¹ca
-543|Krzysztof|Grzelak|krzysztof-grzelak@anj.pl|171183879|osoba sprz¹taj¹ca
-544|Aneta|Ratajczak|aneta-ratajczak@anj.pl|444541492|pokojowy
-545|B³a¿ej|Kucharski|blazej_kucharski@anj.pl|776532536|osoba sprz¹taj¹ca
-546|Mateusz|Krawczyk|mateuszkrawczyk@anj.pl|949434686|osoba sprz¹taj¹ca
-547|Wies³aw|Kasprzyk|wieslawkasprzyk@anj.pl|614448263|osoba sprz¹taj¹ca
-548|Oliwier|G³owacki|oliwier-glowacki@anj.pl|774787636|osoba sprz¹taj¹ca
-549|Dariusz|Wiœniewski|dariuszwisniewski@anj.pl|679759939|pokojowy
-550|Robert|Olszewski|robertolszewski@anj.pl|986256958|osoba sprz¹taj¹ca
-551|Bogumi³a|Mazur|bogumila-mazur@anj.pl|591693918|osoba zarz¹dzaj¹ca
-552|Amelia|Zawadzka|amelia-zawadzka@anj.pl|426751945|pokojowy
-553|Mariola|Andrzejewska|mariolaandrzejewska@anj.pl|542461585|osoba sprz¹taj¹ca
-554|Edward|Koz³owski|edwardkozlowski@anj.pl|952764189|osoba sprz¹taj¹ca
-555|Sylwia|Ko³odziej|sylwia_kolodziej@anj.pl|454813238|osoba sprz¹taj¹ca
-556|Klaudia|Stefaniak|klaudiastefaniak@anj.pl|139313362|osoba sprz¹taj¹ca
-557|Stanis³aw|Czaja|stanislaw_czaja@anj.pl|346222595|osoba sprz¹taj¹ca
-558|Oleksandr|Pi¹tek|oleksandr.piatek@anj.pl|384464121|osoba zarz¹dzaj¹ca
-559|Karol|Maciejewski|karol.maciejewski@anj.pl|424429449|osoba sprz¹taj¹ca
-560|Hanna|Mróz|hanna.mroz@anj.pl|374654515|osoba sprz¹taj¹ca
-561|Henryka|Urban|henrykaurban@anj.pl|323845812|pokojowy
-562|Anna|W³odarczyk|anna-wlodarczyk@anj.pl|951618436|osoba sprz¹taj¹ca
-563|Michalina|Bielecka|michalina.bielecka@anj.pl|995287935|pokojowy
-564|Filip|Pietrzak|filip.pietrzak@anj.pl|936359176|osoba zarz¹dzaj¹ca
-565|Gabriel|Bednarczyk|gabriel.bednarczyk@anj.pl|283275789|pokojowy
-566|Edyta|Piotrowska|edyta_piotrowska@anj.pl|498989746|pokojowy
-567|Sabina|Zalewska|sabina_zalewska@anj.pl|512156167|osoba sprz¹taj¹ca
-568|Grzegorz|Skiba|grzegorz-skiba@anj.pl|867145748|osoba sprz¹taj¹ca
-569|£ucja|Koz³owska|³ucja.kozlowska@anj.pl|963973381|osoba sprz¹taj¹ca
-570|Zofia|Michalska|zofia-michalska@anj.pl|413373745|osoba zarz¹dzaj¹ca
-571|Jerzy|Wiœniewski|jerzy_wisniewski@anj.pl|915331352|osoba zarz¹dzaj¹ca
-572|Norbert|Kucharski|norbert-kucharski@anj.pl|597171352|pokojowy
-573|Norbert|Skiba|norbert_skiba@anj.pl|697989713|osoba sprz¹taj¹ca
-574|Zuzanna|Makowska|zuzannamakowska@anj.pl|324329987|pokojowy
-575|Iga|Wilczyñska|iga-wilczynska@anj.pl|926377925|osoba sprz¹taj¹ca
-576|Gabriela|Kowalewska|gabriela.kowalewska@anj.pl|374887634|osoba sprz¹taj¹ca
-577|Ewa|Kowalska|ewakowalska@anj.pl|524327628|pokojowy
-578|W³odzimierz|Nowak|wlodzimierznowak@anj.pl|615419417|osoba sprz¹taj¹ca
-579|Miros³awa|Polak|miroslawa_polak@anj.pl|669256977|pokojowy
-580|Joanna|Michalak|joanna.michalak@anj.pl|213432544|osoba sprz¹taj¹ca
-581|Kazimierz|Cieœlak|kazimierzcieslak@anj.pl|448114127|osoba sprz¹taj¹ca
-582|Jerzy|Domaga³a|jerzy_domagala@anj.pl|622427119|osoba sprz¹taj¹ca
-583|Maria|Kwiatkowska|maria.kwiatkowska@anj.pl|263598395|osoba zarz¹dzaj¹ca
-584|Aneta|Milewska|aneta-milewska@anj.pl|426742765|osoba sprz¹taj¹ca
-585|Lena|Sowa|lena_sowa@anj.pl|868277499|osoba sprz¹taj¹ca
-586|Sylwester|£ukasik|sylwester-³ukasik@anj.pl|992718712|osoba sprz¹taj¹ca
-587|Wies³awa|Kubicka|wieslawa-kubicka@anj.pl|491129198|osoba sprz¹taj¹ca
-588|Wojciech|Stasiak|wojciechstasiak@anj.pl|168967785|osoba sprz¹taj¹ca
-589|W³odzimierz|Kozak|wlodzimierz.kozak@anj.pl|382128243|pokojowy
-590|Tadeusz|Tomczyk|tadeusztomczyk@anj.pl|476154257|osoba zarz¹dzaj¹ca
-591|Mi³osz|Stefaniak|milosz-stefaniak@anj.pl|739476227|osoba sprz¹taj¹ca
-592|Adam|Nowacki|adam-nowacki@anj.pl|514395412|osoba sprz¹taj¹ca
-593|Dawid|G³owacki|dawid.glowacki@anj.pl|338347988|osoba sprz¹taj¹ca
-594|Aleksandra|Wójcik|aleksandra.wojcik@anj.pl|887325844|osoba sprz¹taj¹ca
-595|Karolina|Kozie³|karolina-koziel@anj.pl|876842234|osoba sprz¹taj¹ca
-596|Wiktoria|Mucha|wiktoriamucha@anj.pl|892411743|osoba sprz¹taj¹ca
-597|Agnieszka|Bielecka|agnieszka-bielecka@anj.pl|649855467|osoba sprz¹taj¹ca
-598|Mariola|Pawlak|mariola.pawlak@anj.pl|155961363|osoba sprz¹taj¹ca
-599|Michalina|Wróblewska|michalina_wroblewska@anj.pl|725826117|osoba sprz¹taj¹ca
-600|Miros³aw|Stasiak|miroslaw.stasiak@anj.pl|974843594|pokojowy
-601|Aleksandra|Milewska|aleksandra_milewska@anj.pl|221143332|osoba sprz¹taj¹ca
-602|Daria|Sroka|daria_sroka@anj.pl|265996423|osoba sprz¹taj¹ca
-603|Mariusz|Jarosz|mariusz.jarosz@anj.pl|866155896|osoba sprz¹taj¹ca
-604|Iga|Owczarek|iga.owczarek@anj.pl|843576313|pokojowy
-605|Marlena|Or³owska|marlena.orlowska@anj.pl|691973317|osoba sprz¹taj¹ca
-606|Wanda|Wolska|wanda_wolska@anj.pl|416265767|osoba sprz¹taj¹ca
-607|Julian|Michalski|julian.michalski@anj.pl|656517899|pokojowy
-608|Ilona|Wierzbicka|ilona.wierzbicka@anj.pl|797222881|osoba zarz¹dzaj¹ca
-609|Czes³awa|Sobczyk|czeslawa.sobczyk@anj.pl|295315266|pokojowy
-610|Lidia|Olejnik|lidia.olejnik@anj.pl|266519981|pokojowy
-611|Damian|Biernacki|damianbiernacki@anj.pl|128429642|osoba sprz¹taj¹ca
-612|Gabriela|Czerwiñska|gabriela_czerwinska@anj.pl|631854124|pokojowy
-613|Marcin|Grzelak|marcin-grzelak@anj.pl|657481852|osoba sprz¹taj¹ca
-614|Lena|Micha³owska|lenamichalowska@anj.pl|385973176|osoba sprz¹taj¹ca
-615|Julian|Kaczor|julian.kaczor@anj.pl|457325928|pokojowy
-616|Weronika|Krajewska|weronika.krajewska@anj.pl|145232527|osoba sprz¹taj¹ca
-617|Emilia|Sosnowska|emilia_sosnowska@anj.pl|551394246|osoba sprz¹taj¹ca
-618|Anita|Sadowska|anitasadowska@anj.pl|791255852|pokojowy
-619|Mariola|Koz³owska|mariola-kozlowska@anj.pl|798135635|osoba sprz¹taj¹ca
-620|W³adys³awa|Œwi¹tek|wladyslawa.œwiatek@anj.pl|556596131|osoba zarz¹dzaj¹ca
-621|Witold|Kwiecieñ|witold_kwiecien@anj.pl|495224716|osoba sprz¹taj¹ca
-622|W³odzimierz|Stefañski|wlodzimierz-stefanski@anj.pl|988535547|osoba sprz¹taj¹ca
-623|Czes³awa|Kasprzyk|czeslawakasprzyk@anj.pl|535222614|osoba sprz¹taj¹ca
-624|Jadwiga|Stefaniak|jadwigastefaniak@anj.pl|767498795|osoba sprz¹taj¹ca
-625|Patrycja|Borkowska|patrycja.borkowska@anj.pl|683169241|pokojowy
-626|Natalia|Andrzejewska|natalia_andrzejewska@anj.pl|568866161|osoba sprz¹taj¹ca
-627|Wanda|Chrzanowska|wanda.chrzanowska@anj.pl|296286657|osoba sprz¹taj¹ca
-628|Alan|Kulesza|alan_kulesza@anj.pl|588785465|pokojowy
-629|Nina|Wierzbicka|ninawierzbicka@anj.pl|348515323|osoba sprz¹taj¹ca
-630|Alina|Nawrocka|alinanawrocka@anj.pl|667539467|pokojowy
-631|Mariola|Wróblewska|mariola.wroblewska@anj.pl|854397411|osoba sprz¹taj¹ca
-632|Sandra|Marek|sandra.marek@anj.pl|955837699|osoba sprz¹taj¹ca
-633|Antonina|B³aszczyk|antonina_blaszczyk@anj.pl|633686369|pokojowy
-634|Franciszek|Szymczak|franciszek_szymczak@anj.pl|728896138|pokojowy
-635|Przemys³aw|Zalewski|przemyslaw.zalewski@anj.pl|286415328|osoba sprz¹taj¹ca
-636|Katarzyna|¯ukowska|katarzyna_¿ukowska@anj.pl|582541977|osoba zarz¹dzaj¹ca
-637|Czes³awa|Walczak|czeslawawalczak@anj.pl|656757155|pokojowy
-638|Stanis³aw|Domañski|stanislaw_domanski@anj.pl|991593156|pokojowy
-639|Agnieszka|Maj|agnieszkamaj@anj.pl|417821646|osoba sprz¹taj¹ca
-640|Andrzej|Olejniczak|andrzej_olejniczak@anj.pl|815252641|osoba sprz¹taj¹ca
-641|Zuzanna|Szyd³owska|zuzanna-szydlowska@anj.pl|486894811|pokojowy
-642|Kornelia|Czaja|kornelia_czaja@anj.pl|382681734|pokojowy
-643|Tymoteusz|Wojciechowski|tymoteusz-wojciechowski@anj.pl|952157269|osoba sprz¹taj¹ca
-644|Mariusz|Polak|mariuszpolak@anj.pl|924112278|osoba sprz¹taj¹ca
-645|Marcel|Szyd³owski|marcelszydlowski@anj.pl|843137285|pokojowy
-646|El¿bieta|Wojciechowska|elzbietawojciechowska@anj.pl|477246291|pokojowy
-647|Grzegorz|Morawski|grzegorz_morawski@anj.pl|114162968|pokojowy
-648|Klaudia|Miko³ajczyk|klaudia-mikolajczyk@anj.pl|337422568|osoba sprz¹taj¹ca
-649|Krystian|Pietrzak|krystian.pietrzak@anj.pl|851217918|osoba sprz¹taj¹ca
-650|Emilia|Kot|emilia.kot@anj.pl|393659359|pokojowy
-651|Nikola|Jêdrzejewska|nikola_jedrzejewska@anj.pl|966569646|pokojowy
-652|Janusz|Szulc|janusz-szulc@anj.pl|537225431|osoba sprz¹taj¹ca
-653|Lucyna|Domaga³a|lucyna.domagala@anj.pl|896898698|osoba zarz¹dzaj¹ca
-654|Paulina|Marsza³ek|paulina_marszalek@anj.pl|748616785|pokojowy
-655|Krystyna|Wilk|krystyna.wilk@anj.pl|263297338|pokojowy
-656|Ewelina|Markowska|ewelina_markowska@anj.pl|538452247|osoba sprz¹taj¹ca
-657|Rados³aw|Wilk|radoslaw-wilk@anj.pl|652765918|osoba sprz¹taj¹ca
-658|Damian|Majewski|damian.majewski@anj.pl|871372685|pokojowy
-659|Waldemar|Piotrowski|waldemar-piotrowski@anj.pl|119935889|osoba sprz¹taj¹ca
-660|Julian|Kêdzierski|juliankedzierski@anj.pl|582124359|osoba sprz¹taj¹ca
-661|Miros³awa|Chmiel|miroslawachmiel@anj.pl|271651773|osoba sprz¹taj¹ca
-662|Antonina|Kowalik|antonina_kowalik@anj.pl|399175488|osoba zarz¹dzaj¹ca
-663|Ilona|Olszewska|ilona-olszewska@anj.pl|333593698|osoba sprz¹taj¹ca
-664|Miros³aw|Szczêsny|miroslaw-szczesny@anj.pl|687733937|osoba sprz¹taj¹ca
-665|Barbara|Ziêba|barbara-zieba@anj.pl|423233587|osoba zarz¹dzaj¹ca
-666|Rados³aw|Leœniak|radoslaw_lesniak@anj.pl|469186629|osoba sprz¹taj¹ca
-667|Iga|Chmiel|igachmiel@anj.pl|632524658|osoba sprz¹taj¹ca
-668|Bartosz|B³aszczyk|bartosz-blaszczyk@anj.pl|244799995|osoba sprz¹taj¹ca
-669|Zdzis³aw|Marsza³ek|zdzislaw_marszalek@anj.pl|341891397|osoba zarz¹dzaj¹ca
-670|Karolina|Skowroñska|karolina_skowronska@anj.pl|482837958|osoba sprz¹taj¹ca
-671|Kazimiera|Makowska|kazimiera_makowska@anj.pl|917874324|osoba sprz¹taj¹ca
-672|Ewa|Tomczak|ewa.tomczak@anj.pl|584914132|osoba sprz¹taj¹ca
-673|Dorota|Szyd³owska|dorotaszydlowska@anj.pl|268769387|osoba sprz¹taj¹ca
-674|Patrycja|Ko³odziej|patrycja.kolodziej@anj.pl|977651854|osoba zarz¹dzaj¹ca
-675|Bogdan|Kalinowski|bogdankalinowski@anj.pl|911524152|osoba zarz¹dzaj¹ca
-676|Barbara|Nowicka|barbara-nowicka@anj.pl|772146775|pokojowy
-677|Ewa|Leœniak|ewalesniak@anj.pl|215266554|pokojowy
-678|Kornelia|Mazur|kornelia.mazur@anj.pl|781821348|pokojowy
-679|Ewa|Cieœlik|ewa-cieslik@anj.pl|918765579|pokojowy
-680|Artur|Smoliñski|artur_smolinski@anj.pl|663641842|pokojowy
-681|Janusz|Rybak|janusz-rybak@anj.pl|392639267|osoba sprz¹taj¹ca
-682|Nadia|Piekarska|nadia.piekarska@anj.pl|344871889|pokojowy
-683|Marcin|Owczarek|marcin.owczarek@anj.pl|546793837|pokojowy
-684|Halina|Jêdrzejewska|halina.jedrzejewska@anj.pl|872354849|osoba sprz¹taj¹ca
-685|Marek|W³odarczyk|marek.wlodarczyk@anj.pl|449852895|osoba sprz¹taj¹ca
-686|Monika|Markiewicz|monika-markiewicz@anj.pl|312525734|osoba zarz¹dzaj¹ca
-687|W³odzimierz|Kowalewski|wlodzimierz-kowalewski@anj.pl|946617627|pokojowy
-688|Marzena|Domañska|marzena.domanska@anj.pl|422864585|osoba sprz¹taj¹ca
-689|Miros³awa|Koz³owska|miroslawa_kozlowska@anj.pl|193912619|osoba zarz¹dzaj¹ca
-690|Lucyna|Bednarek|lucyna-bednarek@anj.pl|427849471|pokojowy
-691|W³adys³awa|Wójcik|wladyslawawojcik@anj.pl|761417624|osoba sprz¹taj¹ca
-692|Sabina|Bednarz|sabinabednarz@anj.pl|525233654|osoba sprz¹taj¹ca
-693|Eugeniusz|Pi¹tek|eugeniusz.piatek@anj.pl|995769882|pokojowy
-694|Urszula|Kania|urszula_kania@anj.pl|655196549|osoba sprz¹taj¹ca
-695|Robert|Szulc|robertszulc@anj.pl|567976231|osoba zarz¹dzaj¹ca
-696|Alina|Krawczyk|alina-krawczyk@anj.pl|848113758|osoba zarz¹dzaj¹ca
-697|Mateusz|Laskowski|mateusz-laskowski@anj.pl|411245837|osoba sprz¹taj¹ca
-698|Oliwier|Górski|oliwier.gorski@anj.pl|385456576|osoba sprz¹taj¹ca
-699|Alan|Barañski|alan-baranski@anj.pl|277442236|pokojowy
-700|Eryk|Czaja|eryk-czaja@anj.pl|275576393|pokojowy
+1|Marlena|Urban|marlena_urban@anj.pl|112877312|pokojowy
+2|Wies³aw|Zych|wieslaw-zych@anj.pl|922678761|osoba sprz¹taj¹ca
+3|Czes³awa|Maj|czeslawa-maj@anj.pl|919136891|osoba sprz¹taj¹ca
+4|Wojciech|Muszyñski|wojciech-muszynski@anj.pl|442649229|pokojowy
+5|Marcin|Kubicki|marcin-kubicki@anj.pl|292831797|pokojowy
+6|Marcin|Bednarski|marcin-bednarski@anj.pl|175332287|osoba sprz¹taj¹ca
+7|Natalia|Œliwiñska|natalia-œliwinska@anj.pl|821529367|osoba sprz¹taj¹ca
+8|Jaros³aw|Tomczak|jaroslaw_tomczak@anj.pl|566964292|pokojowy
+9|Olga|Mazurkiewicz|olga_mazurkiewicz@anj.pl|879957821|osoba zarz¹dzaj¹ca
+10|Maciej|Urbaniak|maciej-urbaniak@anj.pl|741119174|osoba sprz¹taj¹ca
+11|Marta|Tomczyk|marta_tomczyk@anj.pl|231791517|osoba sprz¹taj¹ca
+12|Robert|Matuszewski|robertmatuszewski@anj.pl|913543519|osoba zarz¹dzaj¹ca
+13|Tymoteusz|Maj|tymoteuszmaj@anj.pl|519324113|osoba sprz¹taj¹ca
+14|Patryk|Czajkowski|patryk_czajkowski@anj.pl|315864443|osoba sprz¹taj¹ca
+15|Antoni|Wierzbicki|antoniwierzbicki@anj.pl|674793412|pokojowy
+16|Ilona|Michalska|ilona-michalska@anj.pl|183821563|pokojowy
+17|El¿bieta|Rutkowska|elzbieta-rutkowska@anj.pl|179773645|osoba sprz¹taj¹ca
+18|Emilia|Olszewska|emilia-olszewska@anj.pl|161384239|osoba sprz¹taj¹ca
+19|Norbert|Szymczak|norbert-szymczak@anj.pl|759948851|pokojowy
+20|Michalina|Zawadzka|michalinazawadzka@anj.pl|298828249|osoba sprz¹taj¹ca
+21|Kornelia|Kowalik|korneliakowalik@anj.pl|679281627|osoba sprz¹taj¹ca
+22|Arkadiusz|Osiñski|arkadiusz_osinski@anj.pl|887244517|osoba zarz¹dzaj¹ca
+23|Aleksandra|Biernacka|aleksandrabiernacka@anj.pl|368575239|pokojowy
+24|Aleksandra|Czech|aleksandra-czech@anj.pl|418586645|osoba zarz¹dzaj¹ca
+25|Tadeusz|Tomaszewski|tadeusz.tomaszewski@anj.pl|577273864|osoba sprz¹taj¹ca
+26|Amelia|Gajewska|amelia-gajewska@anj.pl|573863763|pokojowy
+27|Cezary|Romanowski|cezary.romanowski@anj.pl|684658798|osoba sprz¹taj¹ca
+28|Magdalena|Jaworska|magdalena_jaworska@anj.pl|561584679|osoba sprz¹taj¹ca
+29|Rafa³|Czaja|rafal.czaja@anj.pl|765723262|osoba sprz¹taj¹ca
+30|Gabriela|Czerwiñska|gabriela.czerwinska@anj.pl|832613614|osoba sprz¹taj¹ca
+31|Jakub|Wolski|jakub_wolski@anj.pl|553919622|osoba sprz¹taj¹ca
+32|Dawid|Micha³owski|dawid_michalowski@anj.pl|648622124|pokojowy
+33|Marzena|Nawrocka|marzena-nawrocka@anj.pl|947696293|osoba sprz¹taj¹ca
+34|Stanis³aw|Nowacki|stanislawnowacki@anj.pl|226421274|osoba sprz¹taj¹ca
+35|Tadeusz|Rutkowski|tadeusz-rutkowski@anj.pl|862249578|osoba zarz¹dzaj¹ca
+36|Rados³aw|Zakrzewski|radoslaw.zakrzewski@anj.pl|853442197|osoba sprz¹taj¹ca
+37|Zenon|Adamski|zenon-adamski@anj.pl|585597717|osoba sprz¹taj¹ca
+38|Mateusz|Wasilewski|mateuszwasilewski@anj.pl|562951366|osoba sprz¹taj¹ca
+39|Natalia|Wróbel|natalia.wrobel@anj.pl|578377331|osoba sprz¹taj¹ca
+40|Helena|Soko³owska|helena_sokolowska@anj.pl|614734929|pokojowy
+41|Jacek|Skowroñski|jacekskowronski@anj.pl|935681386|osoba sprz¹taj¹ca
+42|Milena|Przybysz|milena.przybysz@anj.pl|644654858|pokojowy
+43|Genowefa|Wysocka|genowefa.wysocka@anj.pl|587549963|pokojowy
+44|Stefan|Polak|stefan_polak@anj.pl|128968156|osoba sprz¹taj¹ca
+45|Jagoda|Górska|jagoda-gorska@anj.pl|188917172|osoba sprz¹taj¹ca
+46|Sabina|Grabowska|sabina-grabowska@anj.pl|542628116|osoba sprz¹taj¹ca
+47|W³adys³awa|Kania|wladyslawa-kania@anj.pl|482695166|osoba sprz¹taj¹ca
+48|Danuta|Romanowska|danuta.romanowska@anj.pl|571825698|osoba sprz¹taj¹ca
+49|Bo¿ena|Urbaniak|bozena_urbaniak@anj.pl|536239874|osoba sprz¹taj¹ca
+50|Regina|Jankowska|reginajankowska@anj.pl|115564994|osoba zarz¹dzaj¹ca
+51|Oskar|Ko³odziej|oskarkolodziej@anj.pl|842696929|pokojowy
+52|Teresa|Paj¹k|teresa-pajak@anj.pl|769281918|osoba sprz¹taj¹ca
+53|Piotr|Przybysz|piotr.przybysz@anj.pl|286776849|osoba sprz¹taj¹ca
+54|Bogdan|Kaczmarek|bogdan.kaczmarek@anj.pl|243852552|osoba sprz¹taj¹ca
+55|Anita|Maciejewska|anita-maciejewska@anj.pl|625573869|osoba sprz¹taj¹ca
+56|Michalina|Mazurek|michalina.mazurek@anj.pl|167763451|osoba sprz¹taj¹ca
+57|Gabriela|Czerwiñska|gabriela_czerwinska@anj.pl|192471452|osoba sprz¹taj¹ca
+58|Izabela|Czajka|izabela_czajka@anj.pl|426222394|osoba sprz¹taj¹ca
+59|Stanis³aw|Grzybowski|stanislawgrzybowski@anj.pl|384888248|pokojowy
+60|Magdalena|Wilk|magdalena.wilk@anj.pl|424418696|osoba sprz¹taj¹ca
+61|Bogumi³a|Piasecka|bogumila-piasecka@anj.pl|195624844|osoba sprz¹taj¹ca
+62|Zuzanna|Malinowska|zuzanna_malinowska@anj.pl|885235316|pokojowy
+63|Wanda|Wolska|wandawolska@anj.pl|995752514|pokojowy
+64|Amelia|Kasprzyk|ameliakasprzyk@anj.pl|421194621|osoba sprz¹taj¹ca
+65|Robert|Wilk|robert-wilk@anj.pl|312682257|osoba sprz¹taj¹ca
+66|W³adys³awa|Ostrowska|wladyslawaostrowska@anj.pl|146224646|pokojowy
+67|Nina|Borowska|nina_borowska@anj.pl|316935784|osoba sprz¹taj¹ca
+68|Grzegorz|Wójcik|grzegorzwojcik@anj.pl|334884842|osoba zarz¹dzaj¹ca
+69|Kinga|Zaj¹c|kinga_zajac@anj.pl|467844486|osoba zarz¹dzaj¹ca
+70|Jacek|Wróblewski|jacek-wroblewski@anj.pl|516519468|osoba sprz¹taj¹ca
+71|Dorota|Sobczak|dorota.sobczak@anj.pl|486718577|pokojowy
+72|Bogumi³a|Krzemiñska|bogumila_krzeminska@anj.pl|624128938|pokojowy
+73|Alan|Koz³owski|alan_kozlowski@anj.pl|222113422|osoba zarz¹dzaj¹ca
+74|Oskar|Maj|oskarmaj@anj.pl|181374765|osoba sprz¹taj¹ca
+75|Patryk|Piekarski|patryk.piekarski@anj.pl|946664516|osoba sprz¹taj¹ca
+76|Bartosz|Grabowski|bartosz_grabowski@anj.pl|161654532|osoba zarz¹dzaj¹ca
+77|Igor|Stankiewicz|igor.stankiewicz@anj.pl|857821758|osoba sprz¹taj¹ca
+78|Kornelia|Majewska|kornelia_majewska@anj.pl|955816739|osoba zarz¹dzaj¹ca
+79|Wiktoria|Marczak|wiktoria-marczak@anj.pl|552261124|osoba sprz¹taj¹ca
+80|Agnieszka|Œwi¹tek|agnieszka_œwiatek@anj.pl|267585816|osoba sprz¹taj¹ca
+81|Genowefa|Jakubowska|genowefa_jakubowska@anj.pl|684617573|osoba sprz¹taj¹ca
+82|Edyta|Matusiak|edyta_matusiak@anj.pl|311824127|osoba zarz¹dzaj¹ca
+83|Jolanta|Kasprzyk|jolanta_kasprzyk@anj.pl|313988815|osoba zarz¹dzaj¹ca
+84|Damian|Tomaszewski|damiantomaszewski@anj.pl|436423186|osoba zarz¹dzaj¹ca
+85|Iwona|Olejniczak|iwona-olejniczak@anj.pl|193917519|pokojowy
+86|Stanis³aw|Wawrzyniak|stanislaw-wawrzyniak@anj.pl|537565939|osoba sprz¹taj¹ca
+87|Alicja|Wójtowicz|alicja_wojtowicz@anj.pl|172983766|osoba zarz¹dzaj¹ca
+88|Marcin|Witkowski|marcin-witkowski@anj.pl|979935292|osoba sprz¹taj¹ca
+89|Ireneusz|W³odarczyk|ireneusz_wlodarczyk@anj.pl|649995548|pokojowy
+90|Urszula|¯ak|urszula¿ak@anj.pl|688625424|pokojowy
+91|Iga|Sawicka|iga.sawicka@anj.pl|678868482|osoba sprz¹taj¹ca
+92|Dominik|Zieliñski|dominik_zielinski@anj.pl|761594354|pokojowy
+93|Hanna|Brzozowska|hanna-brzozowska@anj.pl|893686578|osoba zarz¹dzaj¹ca
+94|Kamil|Œliwiñski|kamilœliwinski@anj.pl|488428413|pokojowy
+95|Dawid|Sobczyk|dawidsobczyk@anj.pl|251158575|osoba zarz¹dzaj¹ca
+96|Bronis³aw|Kasprzyk|bronislaw_kasprzyk@anj.pl|777743871|osoba sprz¹taj¹ca
+97|Hanna|Ma³ek|hanna_malek@anj.pl|563217651|osoba sprz¹taj¹ca
+98|Mariola|Pawlak|mariola-pawlak@anj.pl|688959159|osoba sprz¹taj¹ca
+99|Agata|Bednarz|agata.bednarz@anj.pl|941635398|osoba sprz¹taj¹ca
+100|Marianna|D¹browska|marianna.dabrowska@anj.pl|844973952|osoba sprz¹taj¹ca
+101|£ucja|Marsza³ek|³ucjamarszalek@anj.pl|875976747|osoba sprz¹taj¹ca
+102|Marcin|Lewandowski|marcin-lewandowski@anj.pl|739215313|osoba sprz¹taj¹ca
+103|Bogus³aw|Kêdzierski|boguslawkedzierski@anj.pl|386146139|osoba sprz¹taj¹ca
+104|Wies³aw|Czarnecki|wieslaw-czarnecki@anj.pl|481645111|osoba sprz¹taj¹ca
+105|Rados³aw|Kêdzierski|radoslaw.kedzierski@anj.pl|337161746|osoba sprz¹taj¹ca
+106|Oliwia|Stankiewicz|oliwiastankiewicz@anj.pl|559773863|pokojowy
+107|Barbara|Szczepañska|barbara_szczepanska@anj.pl|315791537|osoba sprz¹taj¹ca
+108|Regina|Cieœlik|regina_cieslik@anj.pl|336272679|osoba sprz¹taj¹ca
+109|Sandra|Lech|sandra.lech@anj.pl|459779219|pokojowy
+110|Fabian|Kozie³|fabian-koziel@anj.pl|497654189|osoba sprz¹taj¹ca
+111|Oliwia|Leszczyñska|oliwia_leszczynska@anj.pl|284786229|pokojowy
+112|Mi³osz|Piekarski|milosz_piekarski@anj.pl|482741185|osoba sprz¹taj¹ca
+113|Alicja|Soko³owska|alicja_sokolowska@anj.pl|498689816|osoba zarz¹dzaj¹ca
+114|Edyta|Matuszewska|edyta.matuszewska@anj.pl|338736226|pokojowy
+115|Bronis³aw|Urban|bronislaw.urban@anj.pl|117685435|osoba sprz¹taj¹ca
+116|Martyna|Lech|martyna_lech@anj.pl|351748361|pokojowy
+117|W³adys³awa|£uczak|wladyslawa-³uczak@anj.pl|593222235|osoba sprz¹taj¹ca
+118|Jaros³aw|Kozak|jaroslaw-kozak@anj.pl|994414682|osoba zarz¹dzaj¹ca
+119|Bogdan|Ma³ek|bogdan.malek@anj.pl|467251988|osoba sprz¹taj¹ca
+120|Ewa|Kucharska|ewakucharska@anj.pl|844527839|pokojowy
+121|£ucja|Pawlak|³ucja-pawlak@anj.pl|788487885|osoba zarz¹dzaj¹ca
+122|Gabriel|Lipiñski|gabriel_lipinski@anj.pl|876544949|pokojowy
+123|Janina|Górecka|janina-gorecka@anj.pl|911153169|osoba sprz¹taj¹ca
+124|Leon|Pi¹tek|leonpiatek@anj.pl|392649797|osoba zarz¹dzaj¹ca
+125|Amelia|Michalska|ameliamichalska@anj.pl|811155337|osoba sprz¹taj¹ca
+126|W³odzimierz|Grabowski|wlodzimierz-grabowski@anj.pl|888783832|osoba zarz¹dzaj¹ca
+127|Lena|Kaczor|lena-kaczor@anj.pl|176581762|osoba sprz¹taj¹ca
+128|Anita|Michalik|anita_michalik@anj.pl|841381311|osoba sprz¹taj¹ca
+129|Dariusz|Musia³|dariusz-musial@anj.pl|861139153|pokojowy
+130|Jagoda|Piasecka|jagoda-piasecka@anj.pl|244792881|osoba sprz¹taj¹ca
+131|Janusz|£uczak|janusz_³uczak@anj.pl|478799415|osoba sprz¹taj¹ca
+132|Karolina|Borowska|karolina.borowska@anj.pl|473817741|osoba sprz¹taj¹ca
+133|Wies³aw|Jastrzêbski|wieslaw_jastrzebski@anj.pl|643482922|pokojowy
+134|Dominika|Malinowska|dominika-malinowska@anj.pl|946132851|pokojowy
+135|Julian|Urban|julian.urban@anj.pl|678779815|osoba sprz¹taj¹ca
+136|Ewelina|Staniszewska|ewelina.staniszewska@anj.pl|687926674|osoba sprz¹taj¹ca
+137|Franciszek|Zych|franciszek.zych@anj.pl|615734129|osoba sprz¹taj¹ca
+138|Michalina|Borowska|michalina-borowska@anj.pl|882997929|pokojowy
+139|Andrzej|Kwiatkowski|andrzej-kwiatkowski@anj.pl|654611252|osoba sprz¹taj¹ca
+140|Robert|Walczak|robertwalczak@anj.pl|413396772|pokojowy
+141|Irena|Szewczyk|irena-szewczyk@anj.pl|682965552|osoba sprz¹taj¹ca
+142|Pawe³|Dziedzic|pawel_dziedzic@anj.pl|971564688|osoba sprz¹taj¹ca
+143|Kinga|Wiœniewska|kinga-wisniewska@anj.pl|762935544|osoba zarz¹dzaj¹ca
+144|Julia|Ziêba|julia_zieba@anj.pl|339992527|osoba sprz¹taj¹ca
+145|Genowefa|Brzeziñska|genowefa_brzezinska@anj.pl|114323575|osoba sprz¹taj¹ca
+146|Igor|Ostrowski|igor.ostrowski@anj.pl|733674388|osoba sprz¹taj¹ca
+147|Zbigniew|Zalewski|zbigniew_zalewski@anj.pl|749514815|osoba sprz¹taj¹ca
+148|Miros³awa|Bednarska|miroslawa-bednarska@anj.pl|637538316|osoba sprz¹taj¹ca
+149|Oskar|Dobrowolski|oskar.dobrowolski@anj.pl|934634675|osoba sprz¹taj¹ca
+150|Maria|Or³owska|maria-orlowska@anj.pl|978395576|osoba sprz¹taj¹ca
+151|Maciej|Kozie³|maciej-koziel@anj.pl|586542292|osoba sprz¹taj¹ca
+152|Roman|Sawicki|romansawicki@anj.pl|242956583|osoba sprz¹taj¹ca
+153|Wiktoria|Kubiak|wiktoria_kubiak@anj.pl|744989431|osoba sprz¹taj¹ca
+154|Cezary|Kurowski|cezarykurowski@anj.pl|236943736|osoba sprz¹taj¹ca
+155|Jakub|Bielecki|jakub_bielecki@anj.pl|945855325|osoba sprz¹taj¹ca
+156|Eryk|Wojciechowski|erykwojciechowski@anj.pl|432574543|pokojowy
+157|Ilona|Turek|ilona.turek@anj.pl|798184754|osoba sprz¹taj¹ca
+158|Kazimiera|Kozie³|kazimiera.koziel@anj.pl|852769791|osoba sprz¹taj¹ca
+159|Ireneusz|Przybysz|ireneusz-przybysz@anj.pl|548794891|osoba zarz¹dzaj¹ca
+160|Krystyna|Rutkowska|krystyna.rutkowska@anj.pl|377932919|pokojowy
+161|Marlena|Go³êbiewska|marlenagolebiewska@anj.pl|214523351|osoba sprz¹taj¹ca
+162|Sandra|Kozak|sandra_kozak@anj.pl|731641773|osoba sprz¹taj¹ca
+163|Marzena|Kowal|marzena.kowal@anj.pl|849224743|pokojowy
+164|Leon|Mazur|leon.mazur@anj.pl|184557733|osoba sprz¹taj¹ca
+165|Aniela|Jêdrzejewska|aniela_jedrzejewska@anj.pl|491576492|pokojowy
+166|Waldemar|Jaworski|waldemarjaworski@anj.pl|744415986|pokojowy
+167|El¿bieta|Micha³owska|elzbieta-michalowska@anj.pl|634189754|osoba sprz¹taj¹ca
+168|Patryk|Romanowski|patryk-romanowski@anj.pl|938148379|osoba sprz¹taj¹ca
+169|Wanda|Gajewska|wanda-gajewska@anj.pl|427496445|osoba sprz¹taj¹ca
+170|Hanna|Sobolewska|hanna-sobolewska@anj.pl|417945577|osoba zarz¹dzaj¹ca
+171|Bronis³aw|Zalewski|bronislaw_zalewski@anj.pl|958394767|osoba sprz¹taj¹ca
+172|Miros³aw|Król|miroslawkrol@anj.pl|774715845|osoba zarz¹dzaj¹ca
+173|Dariusz|Pi¹tek|dariusz-piatek@anj.pl|279236186|osoba sprz¹taj¹ca
+174|Stanis³awa|Maj|stanislawa.maj@anj.pl|677391622|osoba sprz¹taj¹ca
+175|Nina|Bia³ek|nina.bialek@anj.pl|669986877|osoba zarz¹dzaj¹ca
+176|Witold|Bednarz|witoldbednarz@anj.pl|925258437|osoba zarz¹dzaj¹ca
+177|Dorota|Rudnicka|dorotarudnicka@anj.pl|246787951|pokojowy
+178|Ignacy|Pietrzak|ignacypietrzak@anj.pl|559263717|pokojowy
+179|Julian|Ko³odziej|juliankolodziej@anj.pl|139299679|pokojowy
+180|Witold|Malinowski|witold_malinowski@anj.pl|185669827|osoba sprz¹taj¹ca
+181|Dominika|Sowa|dominika.sowa@anj.pl|888567178|pokojowy
+182|Alina|W³odarczyk|alina.wlodarczyk@anj.pl|146163456|osoba sprz¹taj¹ca
+183|Olga|Sobolewska|olga-sobolewska@anj.pl|651539265|osoba sprz¹taj¹ca
+184|Irena|Skiba|irena.skiba@anj.pl|777435979|pokojowy
+185|Patrycja|Urbaniak|patrycjaurbaniak@anj.pl|537164966|pokojowy
+186|Oliwia|Tomaszewska|oliwiatomaszewska@anj.pl|623475779|osoba sprz¹taj¹ca
+187|Lidia|Bukowska|lidia_bukowska@anj.pl|823361724|pokojowy
+188|Leszek|Sawicki|leszek-sawicki@anj.pl|191867317|pokojowy
+189|Zenon|Olszewski|zenonolszewski@anj.pl|483462527|pokojowy
+190|Alicja|Kurowska|alicja.kurowska@anj.pl|484912277|osoba sprz¹taj¹ca
+191|Oleksandr|Markowski|oleksandr-markowski@anj.pl|359412471|osoba sprz¹taj¹ca
+192|Antonina|Zawadzka|antoninazawadzka@anj.pl|637151536|osoba sprz¹taj¹ca
+193|Paulina|Mazurkiewicz|paulinamazurkiewicz@anj.pl|655153617|osoba sprz¹taj¹ca
+194|Kornelia|Stankiewicz|kornelia_stankiewicz@anj.pl|816411995|pokojowy
+195|Wiktoria|Soko³owska|wiktoriasokolowska@anj.pl|762616158|osoba sprz¹taj¹ca
+196|Przemys³aw|Sosnowski|przemyslaw_sosnowski@anj.pl|322954667|osoba zarz¹dzaj¹ca
+197|Ewelina|Bednarek|ewelina.bednarek@anj.pl|199476922|pokojowy
+198|Jolanta|Turek|jolantaturek@anj.pl|894215828|osoba sprz¹taj¹ca
+199|Sandra|Kozie³|sandra.koziel@anj.pl|128324477|osoba sprz¹taj¹ca
+200|Nadia|Sikorska|nadia_sikorska@anj.pl|911143828|pokojowy
+201|Michalina|Orzechowska|michalina.orzechowska@anj.pl|997538382|osoba sprz¹taj¹ca
+202|Milena|Michalak|milena_michalak@anj.pl|553736726|osoba sprz¹taj¹ca
+203|Wanda|Grzelak|wanda-grzelak@anj.pl|879663964|osoba sprz¹taj¹ca
+204|Irena|Borowska|irena-borowska@anj.pl|186347449|osoba sprz¹taj¹ca
+205|Bartosz|Marciniak|bartosz.marciniak@anj.pl|919631593|osoba sprz¹taj¹ca
+206|Maksymilian|Laskowski|maksymilian.laskowski@anj.pl|191514759|osoba sprz¹taj¹ca
+207|B³a¿ej|Kubicki|blazej_kubicki@anj.pl|893767363|osoba sprz¹taj¹ca
+208|Zuzanna|Œliwiñska|zuzannaœliwinska@anj.pl|181348132|pokojowy
+209|Halina|Kurek|halinakurek@anj.pl|516822677|osoba zarz¹dzaj¹ca
+210|Stanis³awa|Gajda|stanislawa-gajda@anj.pl|672419796|pokojowy
+211|£ucja|Madej|³ucjamadej@anj.pl|326171311|osoba sprz¹taj¹ca
+212|Julian|Piasecki|julian-piasecki@anj.pl|925632129|pokojowy
+213|Bronis³aw|Rutkowski|bronislawrutkowski@anj.pl|288392528|osoba sprz¹taj¹ca
+214|Hanna|Bednarska|hannabednarska@anj.pl|586837167|osoba sprz¹taj¹ca
+215|Ma³gorzata|Klimek|malgorzata.klimek@anj.pl|666762587|pokojowy
+216|Kamila|Kaczmarczyk|kamilakaczmarczyk@anj.pl|118754154|osoba sprz¹taj¹ca
+217|Karol|Skiba|karol-skiba@anj.pl|283714362|osoba sprz¹taj¹ca
+218|Jakub|Piekarski|jakubpiekarski@anj.pl|624579986|osoba sprz¹taj¹ca
+219|Andrzej|Olszewski|andrzej-olszewski@anj.pl|837263178|pokojowy
+220|Oliwia|Kozio³|oliwiakoziol@anj.pl|918616298|osoba sprz¹taj¹ca
+221|Halina|Ko³odziej|halina_kolodziej@anj.pl|656687648|osoba sprz¹taj¹ca
+222|Natalia|Marzec|natalia-marzec@anj.pl|553241684|pokojowy
+223|Wiktor|Kubicki|wiktor-kubicki@anj.pl|615498288|osoba sprz¹taj¹ca
+224|Monika|Barañska|monika-baranska@anj.pl|241872866|osoba sprz¹taj¹ca
+225|Maja|Kowalewska|maja.kowalewska@anj.pl|574676452|pokojowy
+226|Edyta|Mucha|edyta.mucha@anj.pl|994845154|osoba zarz¹dzaj¹ca
+227|Mi³osz|Lipiñski|milosz-lipinski@anj.pl|551215474|osoba zarz¹dzaj¹ca
+228|Mariusz|Wolski|mariuszwolski@anj.pl|711939987|osoba zarz¹dzaj¹ca
+229|Roman|Ostrowski|romanostrowski@anj.pl|192195428|osoba sprz¹taj¹ca
+230|Barbara|Zaj¹c|barbarazajac@anj.pl|491257489|osoba sprz¹taj¹ca
+231|Julia|Marcinkowska|juliamarcinkowska@anj.pl|414361656|osoba sprz¹taj¹ca
+232|Urszula|Dziedzic|urszuladziedzic@anj.pl|988481712|osoba zarz¹dzaj¹ca
+233|Ryszard|Lis|ryszard-lis@anj.pl|412458189|osoba sprz¹taj¹ca
+234|Aleksandra|Rybak|aleksandrarybak@anj.pl|177288945|osoba zarz¹dzaj¹ca
+235|Monika|Pi¹tek|monika.piatek@anj.pl|381466126|pokojowy
+236|Anita|Kasprzyk|anita-kasprzyk@anj.pl|724369176|osoba zarz¹dzaj¹ca
+237|Oliwia|Adamczyk|oliwia_adamczyk@anj.pl|843567888|osoba sprz¹taj¹ca
+238|Witold|Wojciechowski|witold-wojciechowski@anj.pl|652144932|pokojowy
+239|Oskar|Barañski|oskar.baranski@anj.pl|698714291|osoba sprz¹taj¹ca
+240|Oliwia|Lis|oliwialis@anj.pl|193582625|osoba sprz¹taj¹ca
+241|Przemys³aw|Wiœniewski|przemyslaw_wisniewski@anj.pl|233166121|osoba sprz¹taj¹ca
+242|Oleksandr|£ukasik|oleksandr³ukasik@anj.pl|498688299|osoba sprz¹taj¹ca
+243|Bart³omiej|Nawrocki|bartlomiej.nawrocki@anj.pl|435714735|osoba sprz¹taj¹ca
+244|Zofia|Kopeæ|zofia-kopec@anj.pl|986551844|pokojowy
+245|Roman|Witek|romanwitek@anj.pl|123213919|pokojowy
+246|Marcel|Wróblewski|marcel_wroblewski@anj.pl|698989837|osoba sprz¹taj¹ca
+247|Regina|Szczepañska|regina-szczepanska@anj.pl|158394819|osoba sprz¹taj¹ca
+248|Jerzy|Gajda|jerzy_gajda@anj.pl|126155641|osoba sprz¹taj¹ca
+249|Sylwester|Mazurkiewicz|sylwester_mazurkiewicz@anj.pl|968112266|osoba zarz¹dzaj¹ca
+250|Jerzy|Walczak|jerzy-walczak@anj.pl|551549785|osoba zarz¹dzaj¹ca
+251|Amelia|Wiœniewska|ameliawisniewska@anj.pl|524383713|pokojowy
+252|Natalia|Nowicka|natalianowicka@anj.pl|162352623|pokojowy
+253|Maja|Kowal|maja.kowal@anj.pl|354439236|osoba sprz¹taj¹ca
+254|W³adys³aw|Or³owski|wladyslaw_orlowski@anj.pl|971287842|pokojowy
+255|Wioletta|Kowalska|wioletta_kowalska@anj.pl|789269454|osoba sprz¹taj¹ca
+256|Marcin|Matusiak|marcinmatusiak@anj.pl|775164288|osoba sprz¹taj¹ca
+257|Wies³awa|Cieœlak|wieslawa_cieslak@anj.pl|585982245|osoba sprz¹taj¹ca
+258|Sebastian|Zych|sebastian-zych@anj.pl|415922996|osoba sprz¹taj¹ca
+259|Aleksander|Baranowski|aleksander_baranowski@anj.pl|943398713|osoba sprz¹taj¹ca
+260|Martyna|Domaga³a|martynadomagala@anj.pl|978741575|osoba zarz¹dzaj¹ca
+261|Martyna|Kosiñska|martynakosinska@anj.pl|417997533|osoba sprz¹taj¹ca
+262|Ignacy|Konieczny|ignacy.konieczny@anj.pl|366274141|osoba sprz¹taj¹ca
+263|Andrzej|Leszczyñski|andrzej_leszczynski@anj.pl|993827163|pokojowy
+264|Marian|Stasiak|marian-stasiak@anj.pl|831642775|osoba sprz¹taj¹ca
+265|Wioleta|Domañska|wioleta.domanska@anj.pl|238338417|pokojowy
+266|Emil|JóŸwiak|emil-jozwiak@anj.pl|518881192|osoba zarz¹dzaj¹ca
+267|Bronis³aw|Wójtowicz|bronislawwojtowicz@anj.pl|719652359|osoba zarz¹dzaj¹ca
+268|Patrycja|Sawicka|patrycjasawicka@anj.pl|114138844|osoba zarz¹dzaj¹ca
+269|Dariusz|Grzelak|dariusz.grzelak@anj.pl|216711845|osoba sprz¹taj¹ca
+270|B³a¿ej|Maj|blazej-maj@anj.pl|519411574|pokojowy
+271|Emilia|Nowak|emilia.nowak@anj.pl|398753665|osoba sprz¹taj¹ca
+272|Ignacy|Szyd³owski|ignacy-szydlowski@anj.pl|493412669|osoba sprz¹taj¹ca
+273|Damian|Micha³owski|damian.michalowski@anj.pl|855954542|osoba zarz¹dzaj¹ca
+274|Gabriel|Czaja|gabriel_czaja@anj.pl|686461217|osoba sprz¹taj¹ca
+275|Janusz|Wolski|janusz-wolski@anj.pl|446945397|pokojowy
+276|W³odzimierz|Sobczyk|wlodzimierz.sobczyk@anj.pl|597825843|osoba sprz¹taj¹ca
+277|Aleksandra|Bia³ek|aleksandra-bialek@anj.pl|869166233|pokojowy
+278|Marian|Madej|marianmadej@anj.pl|557737875|osoba sprz¹taj¹ca
+279|Gabriel|Madej|gabriel.madej@anj.pl|935378997|pokojowy
+280|Wies³aw|Mucha|wieslaw-mucha@anj.pl|892373363|pokojowy
+281|W³adys³aw|Olejniczak|wladyslawolejniczak@anj.pl|547688233|osoba sprz¹taj¹ca
+282|Sylwester|Zieliñski|sylwester-zielinski@anj.pl|686963836|osoba sprz¹taj¹ca
+283|Rados³aw|Stêpieñ|radoslaw-stepien@anj.pl|478914723|osoba sprz¹taj¹ca
+284|Lidia|Dobrowolska|lidia.dobrowolska@anj.pl|133243845|osoba sprz¹taj¹ca
+285|S³awomir|Paw³owski|slawomir-pawlowski@anj.pl|996734721|osoba sprz¹taj¹ca
+286|Julian|B³aszczyk|julianblaszczyk@anj.pl|254699866|osoba sprz¹taj¹ca
+287|Ignacy|Czarnecki|ignacy-czarnecki@anj.pl|569323811|osoba zarz¹dzaj¹ca
+288|Filip|Duda|filipduda@anj.pl|856468481|osoba zarz¹dzaj¹ca
+289|Wiktor|Kowalczyk|wiktor_kowalczyk@anj.pl|838665996|osoba sprz¹taj¹ca
+290|Franciszek|Król|franciszek.krol@anj.pl|515658262|pokojowy
+291|Ewelina|Szymañska|ewelina_szymanska@anj.pl|278358542|osoba sprz¹taj¹ca
+292|Norbert|Zieliñski|norbertzielinski@anj.pl|884767258|pokojowy
+293|Gabriela|Osiñska|gabriela.osinska@anj.pl|321641248|osoba sprz¹taj¹ca
+294|Justyna|Wójtowicz|justyna-wojtowicz@anj.pl|887949165|pokojowy
+295|Zenon|Kubicki|zenonkubicki@anj.pl|544766463|osoba sprz¹taj¹ca
+296|Henryka|Stêpieñ|henryka.stepien@anj.pl|492938684|osoba zarz¹dzaj¹ca
+297|Antonina|Wasilewska|antoninawasilewska@anj.pl|923582979|pokojowy
+298|Weronika|Kania|weronika-kania@anj.pl|851256792|pokojowy
+299|Bronis³aw|Laskowski|bronislawlaskowski@anj.pl|639226517|pokojowy
+300|Maja|Wiœniewska|maja_wisniewska@anj.pl|863285345|osoba zarz¹dzaj¹ca
+301|Mateusz|Pawlak|mateusz-pawlak@anj.pl|917646411|osoba sprz¹taj¹ca
+302|Stanis³aw|Górecki|stanislaw-gorecki@anj.pl|433542213|pokojowy
+303|Sylwester|Marsza³ek|sylwestermarszalek@anj.pl|977696639|pokojowy
+304|Jadwiga|Mróz|jadwigamroz@anj.pl|371488313|osoba sprz¹taj¹ca
+305|Henryka|Chmiel|henrykachmiel@anj.pl|913355267|pokojowy
+306|Dariusz|Bednarek|dariusz-bednarek@anj.pl|563886384|osoba sprz¹taj¹ca
+307|Beata|Leszczyñska|beata_leszczynska@anj.pl|452199958|osoba sprz¹taj¹ca
+308|Martyna|Gajda|martyna_gajda@anj.pl|126143742|osoba zarz¹dzaj¹ca
+309|Bogus³awa|¯ak|boguslawa.¿ak@anj.pl|766322562|pokojowy
+310|Sebastian|Chojnacki|sebastian_chojnacki@anj.pl|237576767|osoba sprz¹taj¹ca
+311|Natalia|Zieliñska|natalia_zielinska@anj.pl|626838479|osoba sprz¹taj¹ca
+312|Nikola|Ma³ecka|nikola.malecka@anj.pl|985648827|osoba zarz¹dzaj¹ca
+313|Bartosz|Wojciechowski|bartoszwojciechowski@anj.pl|241811264|osoba zarz¹dzaj¹ca
+314|W³odzimierz|Górski|wlodzimierz.gorski@anj.pl|493354498|pokojowy
+315|Marlena|Urbaniak|marlena-urbaniak@anj.pl|378116265|pokojowy
+316|Weronika|Stêpieñ|weronika-stepien@anj.pl|235759132|osoba sprz¹taj¹ca
+317|Alicja|Lech|alicja-lech@anj.pl|169592448|pokojowy
+318|Mi³osz|Wawrzyniak|milosz_wawrzyniak@anj.pl|166594667|osoba sprz¹taj¹ca
+319|Zdzis³aw|Kubiak|zdzislawkubiak@anj.pl|343638176|osoba sprz¹taj¹ca
+320|Monika|Kucharska|monika.kucharska@anj.pl|716224778|osoba sprz¹taj¹ca
+321|Franciszek|Krzemiñski|franciszek-krzeminski@anj.pl|697778811|osoba sprz¹taj¹ca
+322|Fabian|Andrzejewski|fabian-andrzejewski@anj.pl|843928942|osoba sprz¹taj¹ca
+323|Emil|Leœniak|emillesniak@anj.pl|246158758|osoba zarz¹dzaj¹ca
+324|Damian|Maj|damianmaj@anj.pl|476468761|osoba sprz¹taj¹ca
+325|El¿bieta|Kruk|elzbietakruk@anj.pl|183266863|osoba sprz¹taj¹ca
+326|Artur|Kaczmarek|artur_kaczmarek@anj.pl|991234755|osoba sprz¹taj¹ca
+327|Izabela|Szulc|izabela-szulc@anj.pl|352633633|pokojowy
+328|Edyta|Brzeziñska|edyta-brzezinska@anj.pl|471653282|pokojowy
+329|Alina|Michalik|alina-michalik@anj.pl|143122795|osoba sprz¹taj¹ca
+330|Fabian|Kasprzyk|fabian_kasprzyk@anj.pl|537967539|pokojowy
+331|Ma³gorzata|Kubicka|malgorzatakubicka@anj.pl|517953199|osoba sprz¹taj¹ca
+332|Karolina|Jastrzêbska|karolina_jastrzebska@anj.pl|481781694|osoba sprz¹taj¹ca
+333|Waldemar|Bednarczyk|waldemar-bednarczyk@anj.pl|995581159|pokojowy
+334|Anita|Nawrocka|anita_nawrocka@anj.pl|678452823|osoba zarz¹dzaj¹ca
+335|Henryk|Kowalewski|henrykkowalewski@anj.pl|381323521|osoba sprz¹taj¹ca
+336|W³adys³aw|Kosiñski|wladyslaw-kosinski@anj.pl|225815378|osoba zarz¹dzaj¹ca
+337|Marta|Pawlak|marta_pawlak@anj.pl|522152929|osoba sprz¹taj¹ca
+338|Karolina|Marsza³ek|karolinamarszalek@anj.pl|563928632|pokojowy
+339|Mieczys³aw|Brzeziñski|mieczyslaw-brzezinski@anj.pl|336464767|osoba sprz¹taj¹ca
+340|Janusz|Ciesielski|janusz_ciesielski@anj.pl|336213433|pokojowy
+341|Zygmunt|Kwiecieñ|zygmuntkwiecien@anj.pl|548268368|osoba sprz¹taj¹ca
+342|Marzena|Grzybowska|marzena-grzybowska@anj.pl|221253189|osoba sprz¹taj¹ca
+343|Katarzyna|£uczak|katarzyna-³uczak@anj.pl|176988319|osoba sprz¹taj¹ca
+344|Igor|Olszewski|igorolszewski@anj.pl|316531997|osoba sprz¹taj¹ca
+345|Ryszard|Turek|ryszard.turek@anj.pl|547566135|osoba sprz¹taj¹ca
+346|Tadeusz|Stasiak|tadeusz-stasiak@anj.pl|944376652|pokojowy
+347|Marian|Zakrzewski|marianzakrzewski@anj.pl|835665438|osoba sprz¹taj¹ca
+348|Bogus³awa|Turek|boguslawaturek@anj.pl|229768185|osoba sprz¹taj¹ca
+349|Hanna|Weso³owska|hanna.wesolowska@anj.pl|278769926|osoba zarz¹dzaj¹ca
+350|Teresa|Urbañska|teresa-urbanska@anj.pl|787773826|pokojowy
+351|Marzena|Krzemiñska|marzena_krzeminska@anj.pl|287589339|osoba sprz¹taj¹ca
+352|Jolanta|Urban|jolantaurban@anj.pl|625345381|osoba sprz¹taj¹ca
+353|Ignacy|Skiba|ignacy.skiba@anj.pl|384582737|pokojowy
+354|Wioletta|Bielecka|wioletta_bielecka@anj.pl|792473972|pokojowy
+355|Ignacy|Lewandowski|ignacy.lewandowski@anj.pl|832337155|pokojowy
+356|Beata|Ostrowska|beata.ostrowska@anj.pl|875454688|osoba sprz¹taj¹ca
+357|Hubert|Kurek|hubert-kurek@anj.pl|793394499|osoba sprz¹taj¹ca
+358|Henryka|Jaworska|henryka_jaworska@anj.pl|259557428|osoba sprz¹taj¹ca
+359|Stanis³aw|Lipiñski|stanislaw.lipinski@anj.pl|586672995|osoba sprz¹taj¹ca
+360|Wiktoria|Chmiel|wiktoria_chmiel@anj.pl|419328314|osoba sprz¹taj¹ca
+361|Aniela|Stankiewicz|aniela_stankiewicz@anj.pl|674482317|osoba sprz¹taj¹ca
+362|Eugeniusz|Kowalik|eugeniusz-kowalik@anj.pl|722996975|osoba sprz¹taj¹ca
+363|Igor|Walczak|igor-walczak@anj.pl|228235857|pokojowy
+364|Nikodem|Œliwa|nikodemœliwa@anj.pl|393866463|pokojowy
+365|Bartosz|Wolski|bartosz.wolski@anj.pl|955566658|osoba sprz¹taj¹ca
+366|Sylwia|WoŸniak|sylwia-wozniak@anj.pl|236535943|osoba sprz¹taj¹ca
+367|Cezary|Muszyñski|cezary.muszynski@anj.pl|425545299|osoba zarz¹dzaj¹ca
+368|W³adys³aw|Bednarek|wladyslaw-bednarek@anj.pl|423676991|osoba sprz¹taj¹ca
+369|Jerzy|Borowski|jerzy-borowski@anj.pl|859616621|pokojowy
+370|Katarzyna|Kosiñska|katarzyna.kosinska@anj.pl|332289347|osoba sprz¹taj¹ca
+371|Krystyna|Kowalik|krystyna-kowalik@anj.pl|352453922|pokojowy
+372|Maria|B³aszczyk|maria_blaszczyk@anj.pl|916459771|pokojowy
+373|Lena|Jakubowska|lena-jakubowska@anj.pl|778535251|pokojowy
+374|Barbara|Baranowska|barbara_baranowska@anj.pl|457223292|pokojowy
+375|Dariusz|Olejniczak|dariusz-olejniczak@anj.pl|273413482|osoba sprz¹taj¹ca
+376|Robert|Ko³odziejczyk|robert-kolodziejczyk@anj.pl|143559871|osoba sprz¹taj¹ca
+377|Alan|Kania|alankania@anj.pl|745439356|osoba zarz¹dzaj¹ca
+378|Szymon|Pluta|szymon_pluta@anj.pl|794858424|osoba zarz¹dzaj¹ca
+379|Wies³awa|Lis|wieslawa_lis@anj.pl|314637447|osoba sprz¹taj¹ca
+380|Kamila|Go³êbiewska|kamilagolebiewska@anj.pl|459272246|osoba sprz¹taj¹ca
+381|W³adys³aw|Wilk|wladyslaw.wilk@anj.pl|444777886|osoba sprz¹taj¹ca
+382|Stefan|Jakubowski|stefanjakubowski@anj.pl|568344623|pokojowy
+383|Zofia|Urbañska|zofia.urbanska@anj.pl|445146224|osoba sprz¹taj¹ca
+384|Nikola|Piasecka|nikolapiasecka@anj.pl|295327869|osoba sprz¹taj¹ca
+385|Marzena|Przybysz|marzenaprzybysz@anj.pl|793942643|osoba sprz¹taj¹ca
+386|Izabela|JóŸwiak|izabela.jozwiak@anj.pl|315425659|osoba sprz¹taj¹ca
+387|Kazimierz|Tomczyk|kazimierz.tomczyk@anj.pl|392583816|osoba sprz¹taj¹ca
+388|Norbert|Michalski|norbert.michalski@anj.pl|554229456|pokojowy
+389|Lena|Maciejewska|lenamaciejewska@anj.pl|882955166|osoba sprz¹taj¹ca
+390|Cezary|Sobczak|cezary_sobczak@anj.pl|623824353|osoba sprz¹taj¹ca
+391|W³adys³awa|Soko³owska|wladyslawa_sokolowska@anj.pl|474245417|osoba sprz¹taj¹ca
+392|Jan|Makowski|jan_makowski@anj.pl|581299892|pokojowy
+393|Bo¿ena|Grabowska|bozena.grabowska@anj.pl|551633811|osoba sprz¹taj¹ca
+394|Karol|Markiewicz|karolmarkiewicz@anj.pl|176545277|pokojowy
+395|Bogus³awa|Sowa|boguslawa_sowa@anj.pl|832741148|osoba sprz¹taj¹ca
+396|Justyna|Wrona|justyna_wrona@anj.pl|114566978|osoba sprz¹taj¹ca
+397|Regina|Grzybowska|regina.grzybowska@anj.pl|757237244|pokojowy
+398|Marian|Marzec|marian.marzec@anj.pl|456258467|osoba sprz¹taj¹ca
+399|Pawe³|Lisowski|pawel.lisowski@anj.pl|744949896|osoba sprz¹taj¹ca
+400|Stefan|Mucha|stefan_mucha@anj.pl|886167973|pokojowy
+401|Zbigniew|Lis|zbigniewlis@anj.pl|673129219|osoba sprz¹taj¹ca
+402|Monika|Paw³owska|monika-pawlowska@anj.pl|697323128|osoba sprz¹taj¹ca
+403|Adrian|Turek|adrian-turek@anj.pl|864119951|osoba sprz¹taj¹ca
+404|Jerzy|Marciniak|jerzy_marciniak@anj.pl|325557214|pokojowy
+405|Nadia|Pi¹tek|nadiapiatek@anj.pl|186123568|pokojowy
+406|Nina|Lipiñska|nina_lipinska@anj.pl|372594986|osoba zarz¹dzaj¹ca
+407|Daniel|Andrzejewski|danielandrzejewski@anj.pl|413841667|osoba sprz¹taj¹ca
+408|Milena|Wysocka|milena.wysocka@anj.pl|771485157|osoba sprz¹taj¹ca
+409|Regina|Marczak|regina.marczak@anj.pl|837317683|osoba sprz¹taj¹ca
+410|Irena|Stefañska|irena_stefanska@anj.pl|247435128|pokojowy
+411|Konrad|Kulesza|konradkulesza@anj.pl|836353212|osoba zarz¹dzaj¹ca
+412|Robert|Jaworski|robert.jaworski@anj.pl|419842885|pokojowy
+413|Amelia|Górska|ameliagorska@anj.pl|259492862|osoba sprz¹taj¹ca
+414|Martyna|Kalinowska|martynakalinowska@anj.pl|185812999|osoba zarz¹dzaj¹ca
+415|Jadwiga|B³aszczyk|jadwiga.blaszczyk@anj.pl|736716955|osoba zarz¹dzaj¹ca
+416|Nikodem|Malinowski|nikodem-malinowski@anj.pl|416998254|osoba sprz¹taj¹ca
+417|Katarzyna|Michalska|katarzyna-michalska@anj.pl|592848324|osoba sprz¹taj¹ca
+418|Beata|Wilczyñska|beatawilczynska@anj.pl|429118879|osoba sprz¹taj¹ca
+419|Wies³aw|Majewski|wieslawmajewski@anj.pl|362312533|osoba sprz¹taj¹ca
+420|Bogus³aw|Zalewski|boguslaw_zalewski@anj.pl|472327442|osoba sprz¹taj¹ca
+421|Marcin|Bukowski|marcin-bukowski@anj.pl|729369446|osoba sprz¹taj¹ca
+422|Witold|Kwiatkowski|witold_kwiatkowski@anj.pl|798239693|pokojowy
+423|Zbigniew|Sikorski|zbigniewsikorski@anj.pl|319537665|osoba zarz¹dzaj¹ca
+424|Julian|Szyd³owski|julianszydlowski@anj.pl|833758813|osoba sprz¹taj¹ca
+425|Julia|Ostrowska|julia_ostrowska@anj.pl|666461632|osoba sprz¹taj¹ca
+426|Bogus³awa|Grabowska|boguslawa.grabowska@anj.pl|154852423|osoba sprz¹taj¹ca
+427|Aleksander|Piasecki|aleksanderpiasecki@anj.pl|896618245|osoba sprz¹taj¹ca
+428|Edyta|Lipiñska|edyta_lipinska@anj.pl|259521623|osoba zarz¹dzaj¹ca
+429|Maja|Dobrowolska|majadobrowolska@anj.pl|268661631|osoba sprz¹taj¹ca
+430|Urszula|Dziedzic|urszula-dziedzic@anj.pl|377163136|osoba sprz¹taj¹ca
+431|Halina|Ostrowska|halina_ostrowska@anj.pl|189666331|pokojowy
+432|Daniel|KaŸmierczak|daniel-kazmierczak@anj.pl|863821837|osoba sprz¹taj¹ca
+433|Czes³aw|Wawrzyniak|czeslaw.wawrzyniak@anj.pl|285538722|osoba sprz¹taj¹ca
+434|Bogus³aw|Michalski|boguslaw_michalski@anj.pl|762853896|osoba sprz¹taj¹ca
+435|Maja|Zakrzewska|majazakrzewska@anj.pl|719243297|osoba zarz¹dzaj¹ca
+436|Agnieszka|Dudek|agnieszka.dudek@anj.pl|754786672|osoba sprz¹taj¹ca
+437|Iwona|Piekarska|iwonapiekarska@anj.pl|358631648|osoba sprz¹taj¹ca
+438|Alina|Janiszewska|alinajaniszewska@anj.pl|429235533|pokojowy
+439|Renata|Cieœlik|renata_cieslik@anj.pl|946836464|pokojowy
+440|Ireneusz|Michalak|ireneusz-michalak@anj.pl|652399955|pokojowy
+441|Karolina|Turek|karolina-turek@anj.pl|478736818|osoba sprz¹taj¹ca
+442|Sabina|Czajka|sabina-czajka@anj.pl|594888268|osoba sprz¹taj¹ca
+443|Wies³aw|Madej|wieslawmadej@anj.pl|773871924|osoba zarz¹dzaj¹ca
+444|Dawid|Szyd³owski|dawidszydlowski@anj.pl|964731867|osoba sprz¹taj¹ca
+445|Mieczys³aw|Krzemiñski|mieczyslaw.krzeminski@anj.pl|385482869|osoba sprz¹taj¹ca
+446|Igor|Zieliñski|igorzielinski@anj.pl|131385347|osoba zarz¹dzaj¹ca
+447|Krzysztof|Szymczak|krzysztofszymczak@anj.pl|892377522|osoba zarz¹dzaj¹ca
+448|£ukasz|KaŸmierczak|³ukaszkazmierczak@anj.pl|179927522|pokojowy
+449|Zofia|D¹browska|zofia_dabrowska@anj.pl|779124237|osoba zarz¹dzaj¹ca
+450|Anita|Mazurkiewicz|anita_mazurkiewicz@anj.pl|154936686|osoba sprz¹taj¹ca
+451|Nadia|Chmiel|nadia.chmiel@anj.pl|819797851|osoba zarz¹dzaj¹ca
+452|Maria|Sroka|maria-sroka@anj.pl|481816949|osoba zarz¹dzaj¹ca
+453|Monika|Cieœlak|monika_cieslak@anj.pl|562675557|osoba zarz¹dzaj¹ca
+454|Mieczys³aw|Stêpieñ|mieczyslaw_stepien@anj.pl|181385173|pokojowy
+455|Miros³aw|Stefañski|miroslawstefanski@anj.pl|872343162|osoba sprz¹taj¹ca
+456|Stanis³aw|Wilk|stanislawwilk@anj.pl|359858855|osoba sprz¹taj¹ca
+457|Norbert|Adamski|norbert-adamski@anj.pl|896647415|osoba sprz¹taj¹ca
+458|Antonina|Pop³awska|antonina-poplawska@anj.pl|936856637|osoba zarz¹dzaj¹ca
+459|Konrad|Pawlik|konrad_pawlik@anj.pl|368678269|osoba zarz¹dzaj¹ca
+460|Irena|Kaczmarek|irena_kaczmarek@anj.pl|456345615|osoba zarz¹dzaj¹ca
+461|Olga|Adamczyk|olga.adamczyk@anj.pl|377324513|osoba sprz¹taj¹ca
+462|Jerzy|Owczarek|jerzyowczarek@anj.pl|889427278|pokojowy
+463|Daniel|Dêbski|daniel_debski@anj.pl|321836322|pokojowy
+464|Marianna|Kania|marianna.kania@anj.pl|152578219|pokojowy
+465|Hubert|Wysocki|hubert.wysocki@anj.pl|626429197|osoba sprz¹taj¹ca
+466|Wies³awa|Matusiak|wieslawa-matusiak@anj.pl|161898246|osoba sprz¹taj¹ca
+467|Agnieszka|Kurek|agnieszkakurek@anj.pl|725189819|pokojowy
+468|Jadwiga|Czech|jadwigaczech@anj.pl|285414932|osoba sprz¹taj¹ca
+469|Teresa|Mazurkiewicz|teresa.mazurkiewicz@anj.pl|854319929|osoba zarz¹dzaj¹ca
+470|Laura|Matusiak|laura_matusiak@anj.pl|547362826|osoba sprz¹taj¹ca
+471|Wioleta|Staniszewska|wioleta.staniszewska@anj.pl|184459529|osoba sprz¹taj¹ca
+472|Emilia|Borkowska|emilia.borkowska@anj.pl|169615382|osoba sprz¹taj¹ca
+473|Weronika|Wysocka|weronikawysocka@anj.pl|391642274|osoba sprz¹taj¹ca
+474|Ewelina|Stasiak|ewelinastasiak@anj.pl|466263573|osoba zarz¹dzaj¹ca
+475|Waldemar|Kucharski|waldemar_kucharski@anj.pl|424793251|osoba sprz¹taj¹ca
+476|Fabian|Ostrowski|fabian-ostrowski@anj.pl|575462122|pokojowy
+477|Lidia|W³odarczyk|lidia-wlodarczyk@anj.pl|827121195|osoba sprz¹taj¹ca
+478|Dorota|Nowakowska|dorota_nowakowska@anj.pl|974714679|osoba sprz¹taj¹ca
+479|Tadeusz|Marczak|tadeusz-marczak@anj.pl|942954887|pokojowy
+480|Zygmunt|Marek|zygmunt_marek@anj.pl|132481176|pokojowy
+481|Iga|Œwiderska|igaœwiderska@anj.pl|438617654|osoba sprz¹taj¹ca
+482|Dawid|Jab³oñski|dawid_jablonski@anj.pl|713457863|osoba sprz¹taj¹ca
+483|Dominika|Domaga³a|dominika.domagala@anj.pl|267475249|osoba sprz¹taj¹ca
+484|Hanna|Domañska|hanna_domanska@anj.pl|367678964|osoba sprz¹taj¹ca
+485|Micha³|G³owacki|michal_glowacki@anj.pl|874216895|osoba zarz¹dzaj¹ca
+486|Dawid|Nawrocki|dawidnawrocki@anj.pl|815565753|osoba sprz¹taj¹ca
+487|Wioletta|Zawadzka|wiolettazawadzka@anj.pl|933536357|osoba sprz¹taj¹ca
+488|Norbert|Muszyñski|norbert-muszynski@anj.pl|382338829|osoba sprz¹taj¹ca
+489|Filip|Szczepañski|filip-szczepanski@anj.pl|113562999|osoba sprz¹taj¹ca
+490|Daria|Bia³ek|dariabialek@anj.pl|754969976|osoba sprz¹taj¹ca
+491|Urszula|Baranowska|urszulabaranowska@anj.pl|959992117|pokojowy
+492|Edward|Skowroñski|edward_skowronski@anj.pl|367962784|osoba sprz¹taj¹ca
+493|Olga|Nowacka|olga_nowacka@anj.pl|852157586|osoba sprz¹taj¹ca
+494|Daria|Kosiñska|daria-kosinska@anj.pl|314297275|osoba zarz¹dzaj¹ca
+495|Marcel|Przybysz|marcel-przybysz@anj.pl|761475697|pokojowy
+496|Iwona|JóŸwiak|iwonajozwiak@anj.pl|541425418|osoba zarz¹dzaj¹ca
+497|Dominik|Kania|dominikkania@anj.pl|122982559|osoba sprz¹taj¹ca
+498|Kamila|Wójcik|kamilawojcik@anj.pl|459198317|osoba sprz¹taj¹ca
+499|Marta|Bednarczyk|marta.bednarczyk@anj.pl|282633912|osoba sprz¹taj¹ca
+500|Alina|Kopeæ|alina-kopec@anj.pl|444674845|pokojowy
+501|Magdalena|WoŸniak|magdalena-wozniak@anj.pl|621935545|osoba sprz¹taj¹ca
+502|Karolina|Pawlik|karolinapawlik@anj.pl|521957955|osoba sprz¹taj¹ca
+503|Ireneusz|Grzelak|ireneusz-grzelak@anj.pl|662555882|osoba sprz¹taj¹ca
+504|Dominika|Wysocka|dominikawysocka@anj.pl|318832466|pokojowy
+505|Bogus³awa|Tomczak|boguslawa.tomczak@anj.pl|333514555|osoba sprz¹taj¹ca
+506|Zygmunt|Kucharski|zygmunt-kucharski@anj.pl|154176649|osoba sprz¹taj¹ca
+507|Magdalena|Szulc|magdalena.szulc@anj.pl|537161595|pokojowy
+508|Jolanta|Kasprzak|jolanta.kasprzak@anj.pl|113994815|pokojowy
+509|Edward|Kowalik|edward_kowalik@anj.pl|246383342|osoba sprz¹taj¹ca
+510|Irena|Kosiñska|irena.kosinska@anj.pl|616294611|pokojowy
+511|Nikodem|Przybysz|nikodem.przybysz@anj.pl|556129418|osoba sprz¹taj¹ca
+512|Marian|Czajkowski|marian.czajkowski@anj.pl|471792136|osoba sprz¹taj¹ca
+513|Beata|Jakubowska|beatajakubowska@anj.pl|348437426|osoba sprz¹taj¹ca
+514|Zofia|Ciesielska|zofiaciesielska@anj.pl|122335979|pokojowy
+515|Micha³|Kurek|michal.kurek@anj.pl|614187315|pokojowy
+516|Waldemar|Baranowski|waldemar_baranowski@anj.pl|858412254|osoba sprz¹taj¹ca
+517|Ireneusz|Janicki|ireneusz_janicki@anj.pl|398318122|osoba sprz¹taj¹ca
+518|Bogumi³a|Gajda|bogumilagajda@anj.pl|844891192|osoba sprz¹taj¹ca
+519|Iwona|Kêdzierska|iwona.kedzierska@anj.pl|711376968|pokojowy
+520|£ukasz|Sosnowski|³ukasz.sosnowski@anj.pl|669242731|osoba sprz¹taj¹ca
+521|Lena|Czech|lena_czech@anj.pl|626842888|pokojowy
+522|Ignacy|Turek|ignacy.turek@anj.pl|482772869|pokojowy
+523|Emilia|Krawczyk|emilia-krawczyk@anj.pl|355568397|pokojowy
+524|Wies³awa|Pi¹tek|wieslawa.piatek@anj.pl|921481169|osoba sprz¹taj¹ca
+525|Eugeniusz|Dziedzic|eugeniusz_dziedzic@anj.pl|356432223|osoba zarz¹dzaj¹ca
+526|Marcel|Sadowski|marcel-sadowski@anj.pl|121521153|pokojowy
+527|Marian|Witek|marian.witek@anj.pl|633896448|osoba sprz¹taj¹ca
+528|Zygmunt|Wasilewski|zygmuntwasilewski@anj.pl|396923145|osoba sprz¹taj¹ca
+529|Pawe³|Czajka|pawelczajka@anj.pl|441495141|osoba sprz¹taj¹ca
+530|Zygmunt|Przybysz|zygmunt.przybysz@anj.pl|874718615|osoba zarz¹dzaj¹ca
+531|Mariola|Kruk|mariolakruk@anj.pl|215329252|osoba sprz¹taj¹ca
+532|Henryka|Miko³ajczyk|henrykamikolajczyk@anj.pl|484683592|osoba sprz¹taj¹ca
+533|Cezary|Kaczmarczyk|cezary_kaczmarczyk@anj.pl|538895626|osoba sprz¹taj¹ca
+534|Damian|Domaga³a|damiandomagala@anj.pl|499722856|osoba sprz¹taj¹ca
+535|Miros³awa|Andrzejewska|miroslawaandrzejewska@anj.pl|199325524|osoba sprz¹taj¹ca
+536|Zenon|Szewczyk|zenonszewczyk@anj.pl|439785985|osoba zarz¹dzaj¹ca
+537|Mi³osz|Sobczak|milosz-sobczak@anj.pl|634968246|osoba sprz¹taj¹ca
+538|Witold|Mazurkiewicz|witold-mazurkiewicz@anj.pl|466973943|osoba zarz¹dzaj¹ca
+539|Wojciech|Konieczny|wojciech.konieczny@anj.pl|946922711|osoba zarz¹dzaj¹ca
+540|Mi³osz|Wierzbicki|milosz-wierzbicki@anj.pl|817249614|osoba sprz¹taj¹ca
+541|Maja|Kubiak|maja-kubiak@anj.pl|822574116|osoba sprz¹taj¹ca
+542|Daniel|Szczepañski|danielszczepanski@anj.pl|859875262|osoba sprz¹taj¹ca
+543|Aleksander|Wiœniewski|aleksander.wisniewski@anj.pl|832393315|osoba zarz¹dzaj¹ca
+544|Sabina|Kozie³|sabina_koziel@anj.pl|749776248|osoba zarz¹dzaj¹ca
+545|Ryszard|Sobczak|ryszardsobczak@anj.pl|739185491|pokojowy
+546|Kazimierz|Tomczak|kazimierz_tomczak@anj.pl|556572872|pokojowy
+547|Aneta|Michalik|aneta_michalik@anj.pl|239489743|pokojowy
+548|Kazimiera|Urbaniak|kazimiera-urbaniak@anj.pl|617651637|osoba sprz¹taj¹ca
+549|Zygmunt|Wojciechowski|zygmunt-wojciechowski@anj.pl|322238466|pokojowy
+550|Artur|Witek|artur_witek@anj.pl|641857365|osoba zarz¹dzaj¹ca
+551|Kacper|Lipiñski|kacper-lipinski@anj.pl|167686799|pokojowy
+552|Alina|Szymczak|alina-szymczak@anj.pl|156312953|osoba sprz¹taj¹ca
+553|Stanis³awa|Œliwiñska|stanislawa-œliwinska@anj.pl|474879533|pokojowy
+554|Daniel|Michalik|daniel-michalik@anj.pl|416386418|osoba sprz¹taj¹ca
+555|W³adys³aw|Kurowski|wladyslaw_kurowski@anj.pl|368543173|pokojowy
+556|Monika|Pluta|monika.pluta@anj.pl|368783154|osoba sprz¹taj¹ca
+557|Waldemar|Dobrowolski|waldemar.dobrowolski@anj.pl|967936193|pokojowy
+558|Bartosz|Sawicki|bartosz.sawicki@anj.pl|321197931|osoba sprz¹taj¹ca
+559|Damian|Olejnik|damian_olejnik@anj.pl|627944945|osoba sprz¹taj¹ca
+560|Wiktor|Sowa|wiktor_sowa@anj.pl|875413587|osoba sprz¹taj¹ca
+561|Witold|Marczak|witold_marczak@anj.pl|827886632|pokojowy
+562|Józefa|Mróz|jozefa_mroz@anj.pl|128896523|pokojowy
+563|Lucyna|Lewicka|lucyna_lewicka@anj.pl|933952324|osoba sprz¹taj¹ca
+564|Lidia|Brzozowska|lidia_brzozowska@anj.pl|684495579|osoba sprz¹taj¹ca
+565|Mieczys³aw|Dobrowolski|mieczyslaw_dobrowolski@anj.pl|241296982|osoba sprz¹taj¹ca
+566|Patrycja|Skowroñska|patrycja-skowronska@anj.pl|445191337|osoba zarz¹dzaj¹ca
+567|Marianna|Tomczyk|marianna_tomczyk@anj.pl|923864565|osoba zarz¹dzaj¹ca
+568|Monika|Ma³ek|monikamalek@anj.pl|781249833|pokojowy
+569|Kazimierz|Marek|kazimierz.marek@anj.pl|894829716|osoba sprz¹taj¹ca
+570|Zenon|Koz³owski|zenon.kozlowski@anj.pl|156219139|osoba sprz¹taj¹ca
+571|Aleksandra|Wróblewska|aleksandra_wroblewska@anj.pl|932457997|osoba sprz¹taj¹ca
+572|Emil|Kaczmarczyk|emilkaczmarczyk@anj.pl|253352853|osoba sprz¹taj¹ca
+573|Julian|Makowski|julian-makowski@anj.pl|497879839|pokojowy
+574|Leon|Krzemiñski|leon_krzeminski@anj.pl|465795339|osoba sprz¹taj¹ca
+575|Martyna|Kozio³|martyna-koziol@anj.pl|394149325|osoba sprz¹taj¹ca
+576|Marcel|Micha³owski|marcel_michalowski@anj.pl|444343195|osoba sprz¹taj¹ca
+577|Daniel|Œliwa|danielœliwa@anj.pl|219883125|osoba sprz¹taj¹ca
+578|Dawid|Borkowski|dawidborkowski@anj.pl|679233386|osoba sprz¹taj¹ca
+579|Agnieszka|Ko³odziej|agnieszka.kolodziej@anj.pl|213431454|osoba sprz¹taj¹ca
+580|Ewelina|Górska|ewelina.gorska@anj.pl|292297998|osoba sprz¹taj¹ca
+581|Adam|Marzec|adam.marzec@anj.pl|541588813|pokojowy
+582|Micha³|Soko³owski|michal_sokolowski@anj.pl|676122138|osoba sprz¹taj¹ca
+583|Konrad|Makowski|konrad_makowski@anj.pl|822917243|osoba sprz¹taj¹ca
+584|Ma³gorzata|Kwiatkowska|malgorzata-kwiatkowska@anj.pl|175637843|osoba sprz¹taj¹ca
+585|B³a¿ej|Jarosz|blazej-jarosz@anj.pl|772444515|osoba sprz¹taj¹ca
+586|Damian|Ko³odziej|damian_kolodziej@anj.pl|457726862|pokojowy
+587|Wies³aw|KaŸmierczak|wieslaw-kazmierczak@anj.pl|814714356|osoba sprz¹taj¹ca
+588|Angelika|W³odarczyk|angelika_wlodarczyk@anj.pl|813864719|osoba sprz¹taj¹ca
+589|Genowefa|Ma³ecka|genowefa-malecka@anj.pl|364451957|osoba zarz¹dzaj¹ca
+590|Eryk|Maciejewski|eryk_maciejewski@anj.pl|934145373|osoba zarz¹dzaj¹ca
+591|Henryk|Witkowski|henrykwitkowski@anj.pl|271762851|pokojowy
+592|Olga|Wójtowicz|olgawojtowicz@anj.pl|482258815|osoba zarz¹dzaj¹ca
+593|Bronis³aw|Urbaniak|bronislaw-urbaniak@anj.pl|652438426|osoba sprz¹taj¹ca
+594|Milena|B³aszczyk|milenablaszczyk@anj.pl|812495539|osoba zarz¹dzaj¹ca
+595|Bogdan|Kosiñski|bogdan.kosinski@anj.pl|452195592|pokojowy
+596|Laura|Bukowska|laurabukowska@anj.pl|711494676|pokojowy
+597|Przemys³aw|Michalak|przemyslawmichalak@anj.pl|295665933|pokojowy
+598|Monika|Szymczak|monika_szymczak@anj.pl|552512394|osoba zarz¹dzaj¹ca
+599|Michalina|Kruk|michalina-kruk@anj.pl|979151837|osoba sprz¹taj¹ca
+600|Czes³aw|Olejnik|czeslaw-olejnik@anj.pl|743461278|pokojowy
+601|Józef|Lech|jozef-lech@anj.pl|447536629|pokojowy
+602|Leszek|Matuszewski|leszek-matuszewski@anj.pl|619825181|osoba sprz¹taj¹ca
+603|Olga|Kozie³|olga.koziel@anj.pl|716723742|osoba sprz¹taj¹ca
+604|Gra¿yna|Kaczor|grazynakaczor@anj.pl|219114571|osoba sprz¹taj¹ca
+605|Jadwiga|Gajewska|jadwigagajewska@anj.pl|692511717|osoba sprz¹taj¹ca
+606|Angelika|Mucha|angelika_mucha@anj.pl|451436612|pokojowy
+607|Agnieszka|Kowalska|agnieszka.kowalska@anj.pl|724167943|pokojowy
+608|Dominik|Leœniak|dominik-lesniak@anj.pl|271298941|pokojowy
+609|Iwona|¯ukowska|iwona¿ukowska@anj.pl|436384177|pokojowy
+610|Zygmunt|Jastrzêbski|zygmuntjastrzebski@anj.pl|349499474|pokojowy
+611|Konrad|Sowa|konrad-sowa@anj.pl|375883288|pokojowy
+612|Norbert|Król|norbert_krol@anj.pl|855235479|osoba sprz¹taj¹ca
+613|Danuta|Kruk|danutakruk@anj.pl|376278347|pokojowy
+614|Stanis³aw|Go³êbiewski|stanislaw-golebiewski@anj.pl|755741963|osoba sprz¹taj¹ca
+615|Zygmunt|Gajewski|zygmuntgajewski@anj.pl|752328495|osoba sprz¹taj¹ca
+616|Michalina|Olejniczak|michalina_olejniczak@anj.pl|117845784|pokojowy
+617|£ucja|Rogowska|³ucja.rogowska@anj.pl|966733968|osoba sprz¹taj¹ca
+618|Gra¿yna|Skiba|grazyna.skiba@anj.pl|931958512|osoba sprz¹taj¹ca
+619|Nina|Piekarska|nina-piekarska@anj.pl|638857652|pokojowy
+620|Monika|Bednarczyk|monika_bednarczyk@anj.pl|476589774|osoba sprz¹taj¹ca
+621|Artur|Urban|artur-urban@anj.pl|318385659|osoba sprz¹taj¹ca
+622|Anna|Piasecka|annapiasecka@anj.pl|865547521|osoba sprz¹taj¹ca
+623|Nina|Lis|nina-lis@anj.pl|782756291|pokojowy
+624|Ewelina|Wrona|ewelina.wrona@anj.pl|444216843|osoba sprz¹taj¹ca
+625|Kinga|Kopeæ|kinga-kopec@anj.pl|959785588|osoba sprz¹taj¹ca
+626|Stefan|Chmiel|stefan_chmiel@anj.pl|219265493|pokojowy
+627|Kornelia|Kubicka|korneliakubicka@anj.pl|263797874|osoba sprz¹taj¹ca
+628|Wojciech|WoŸniak|wojciech-wozniak@anj.pl|391392531|pokojowy
+629|Anna|Milewska|anna-milewska@anj.pl|333627184|osoba sprz¹taj¹ca
+630|Anna|Brzozowska|anna-brzozowska@anj.pl|392754286|osoba sprz¹taj¹ca
+631|Cezary|Stefañski|cezary_stefanski@anj.pl|449916537|osoba sprz¹taj¹ca
+632|Jaros³aw|Kurowski|jaroslaw_kurowski@anj.pl|761712314|osoba zarz¹dzaj¹ca
+633|Katarzyna|Nawrocka|katarzynanawrocka@anj.pl|265274655|osoba sprz¹taj¹ca
+634|Leszek|Czech|leszek_czech@anj.pl|452884328|osoba sprz¹taj¹ca
+635|Bogus³awa|Lisowska|boguslawa-lisowska@anj.pl|298535882|osoba sprz¹taj¹ca
+636|Julia|Jarosz|julia_jarosz@anj.pl|589297721|osoba sprz¹taj¹ca
+637|Anita|Urbañska|anita.urbanska@anj.pl|482313955|osoba sprz¹taj¹ca
+638|Karol|Michalak|karol_michalak@anj.pl|331589621|osoba sprz¹taj¹ca
+639|Katarzyna|Mazurkiewicz|katarzyna.mazurkiewicz@anj.pl|249392234|pokojowy
+640|Fabian|Lech|fabian_lech@anj.pl|854653676|osoba sprz¹taj¹ca
+641|Kacper|Kêdzierski|kacperkedzierski@anj.pl|727132286|osoba zarz¹dzaj¹ca
+642|Aniela|Adamska|aniela_adamska@anj.pl|224221198|osoba sprz¹taj¹ca
+643|Artur|Sikorski|artur_sikorski@anj.pl|244124357|osoba sprz¹taj¹ca
+644|Ma³gorzata|Rudnicka|malgorzata-rudnicka@anj.pl|365685653|pokojowy
+645|Lena|Paw³owska|lenapawlowska@anj.pl|415868911|osoba sprz¹taj¹ca
+646|Miros³aw|Marciniak|miroslaw_marciniak@anj.pl|335742874|pokojowy
+647|Hanna|Sobczak|hanna.sobczak@anj.pl|242668754|osoba sprz¹taj¹ca
+648|Edyta|Czaja|edyta-czaja@anj.pl|451629557|osoba sprz¹taj¹ca
+649|Karol|Czajkowski|karol-czajkowski@anj.pl|285624269|osoba sprz¹taj¹ca
+650|Miros³aw|Zió³kowski|miroslaw_ziolkowski@anj.pl|234758489|osoba sprz¹taj¹ca
+651|Czes³aw|Kucharski|czeslawkucharski@anj.pl|527298712|osoba sprz¹taj¹ca
+652|Dominika|Lipiñska|dominika-lipinska@anj.pl|753468437|osoba sprz¹taj¹ca
+653|Bartosz|Jaworski|bartosz_jaworski@anj.pl|997291139|osoba sprz¹taj¹ca
+654|Leon|Ma³ecki|leonmalecki@anj.pl|861231629|osoba sprz¹taj¹ca
+655|Krystyna|Chrzanowska|krystyna_chrzanowska@anj.pl|487977771|pokojowy
+656|Henryk|Kuczyñski|henryk-kuczynski@anj.pl|841882552|osoba sprz¹taj¹ca
+657|Ma³gorzata|Adamska|malgorzata.adamska@anj.pl|648167524|pokojowy
+658|Sabina|Czajka|sabinaczajka@anj.pl|477321541|osoba zarz¹dzaj¹ca
+659|Stanis³awa|Domaga³a|stanislawa-domagala@anj.pl|254438624|osoba sprz¹taj¹ca
+660|Aleksandra|Czajka|aleksandraczajka@anj.pl|958381619|osoba sprz¹taj¹ca
+661|Sandra|Kubicka|sandra_kubicka@anj.pl|367963272|pokojowy
+662|Arkadiusz|Krzemiñski|arkadiusz_krzeminski@anj.pl|338752577|osoba sprz¹taj¹ca
+663|Damian|Kozie³|damian.koziel@anj.pl|226797914|pokojowy
+664|S³awomir|Bednarz|slawomir.bednarz@anj.pl|238763637|osoba sprz¹taj¹ca
+665|Jerzy|Dêbski|jerzy.debski@anj.pl|811684523|osoba sprz¹taj¹ca
+666|Kazimiera|Krupa|kazimiera-krupa@anj.pl|656956714|pokojowy
+667|Wojciech|Kowalczyk|wojciech_kowalczyk@anj.pl|247113974|osoba sprz¹taj¹ca
+668|Teresa|Marciniak|teresa-marciniak@anj.pl|827964354|pokojowy
+669|Daniel|Markowski|daniel.markowski@anj.pl|179488151|pokojowy
+670|Tadeusz|Nowacki|tadeusznowacki@anj.pl|744118566|osoba sprz¹taj¹ca
+671|Bart³omiej|Zalewski|bartlomiej_zalewski@anj.pl|127217681|pokojowy
+672|Karol|Bielecki|karolbielecki@anj.pl|464645486|pokojowy
+673|Adam|Œwi¹tek|adam-œwiatek@anj.pl|687139857|pokojowy
+674|Filip|Urban|filip_urban@anj.pl|952931195|osoba sprz¹taj¹ca
+675|Stefania|Borowska|stefaniaborowska@anj.pl|684786357|pokojowy
+676|Wiktoria|Kasprzak|wiktoriakasprzak@anj.pl|957545536|pokojowy
+677|Cezary|Ratajczak|cezary_ratajczak@anj.pl|875789512|pokojowy
+678|Grzegorz|Kozio³|grzegorzkoziol@anj.pl|658517337|pokojowy
+679|Barbara|Kubiak|barbara-kubiak@anj.pl|735497488|osoba sprz¹taj¹ca
+680|Patrycja|Kuczyñska|patrycja.kuczynska@anj.pl|447869919|pokojowy
+681|Nina|Barañska|nina_baranska@anj.pl|733452468|osoba sprz¹taj¹ca
+682|Zenon|Rybak|zenon_rybak@anj.pl|365585266|osoba sprz¹taj¹ca
+683|Michalina|Milewska|michalina.milewska@anj.pl|482688573|pokojowy
+684|Mi³osz|Pawlak|milosz-pawlak@anj.pl|879871314|pokojowy
+685|Miko³aj|Sroka|mikolaj-sroka@anj.pl|816457686|osoba sprz¹taj¹ca
+686|Krystian|Bielecki|krystianbielecki@anj.pl|461672517|osoba zarz¹dzaj¹ca
+687|Stanis³awa|Pawlik|stanislawa-pawlik@anj.pl|121354229|osoba sprz¹taj¹ca
+688|Anita|Majchrzak|anita.majchrzak@anj.pl|264999564|osoba sprz¹taj¹ca
+689|Janusz|Orzechowski|janusz.orzechowski@anj.pl|199441115|pokojowy
+690|Anita|Kwiatkowska|anitakwiatkowska@anj.pl|811131793|pokojowy
+691|Hanna|Kubiak|hanna.kubiak@anj.pl|758591998|osoba sprz¹taj¹ca
+692|Miko³aj|Soko³owski|mikolaj_sokolowski@anj.pl|314171193|osoba sprz¹taj¹ca
+693|Barbara|Rutkowska|barbara.rutkowska@anj.pl|429169726|osoba sprz¹taj¹ca
+694|Nina|Matusiak|ninamatusiak@anj.pl|821141882|osoba zarz¹dzaj¹ca
+695|Stefan|Urbañski|stefan.urbanski@anj.pl|547827152|osoba sprz¹taj¹ca
+696|Adrian|Kaczmarek|adrian-kaczmarek@anj.pl|454952673|pokojowy
+697|Oliwia|Krawczyk|oliwia-krawczyk@anj.pl|723582141|pokojowy
+698|Ryszard|Brzeziñski|ryszardbrzezinski@anj.pl|346992985|osoba sprz¹taj¹ca
+699|Oskar|Nowakowski|oskarnowakowski@anj.pl|957156357|osoba sprz¹taj¹ca
+700|Stanis³aw|Szymczak|stanislaw-szymczak@anj.pl|256925584|osoba zarz¹dzaj¹ca

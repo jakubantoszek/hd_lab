@@ -32,7 +32,7 @@ def read_reservations():
     with open('bulk/reservation.bulk') as file:
         content = file.readlines()
         for line in content:
-            reservations.append(Reservation(None, None, None, None, line.replace('\n', '')))
+            reservations.append(Reservation(None, None, None, None, line.replace('\n', ''), None))
 
     return reservations
 

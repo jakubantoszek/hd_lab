@@ -9,7 +9,6 @@ email_breaks = ['', '.', '-', '_']
 stars = [5, 4, 4, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2]
 polish_signs = {'ą': 'a', 'ć': 'c', 'ę': 'e', 'ł': 'l', 'ó': 'o', 'ń': 'n', 'ś': 's',
                 'ż': 'z', 'ź': 'z'}
-positions = [('osoba sprzątająca', 400), ('pokojowy', 200), ('osoba zarządzająca', 100)]
 positions_list = []
 hotel_capacity = []
 ten_rooms_capacities = [1, 1, 2, 2, 2, 3, 3, 4, 4, 5]
@@ -82,7 +81,8 @@ def random_surname(gender):
         return female_surnames[x]
 
 
-def set_positions():
+def set_positions(args):
+    positions = [('osoba sprzątająca', args[0]), ('pokojowy', args[1]), ('osoba zarządzająca', args[2])]
     for i in range(len(positions)):
         for j in range(positions[i][1]):
             positions_list.append(positions[i][0])
