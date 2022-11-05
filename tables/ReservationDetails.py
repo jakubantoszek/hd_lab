@@ -19,15 +19,19 @@ def rand_children_and_adults(room_capacity):
 
 
 class ReservationDetails:
-    def __init__(self, reservation, hotel_id, room):
-        self.reservation_id = reservation.id
-        self.hotel_id = hotel_id
-        self.room_number = room.number
-        self.no_of_adults, self.no_of_children = rand_children_and_adults(room.max_no_of_guests)
-        self.check_in_date = reservation.check_in_date
-        self.check_out_date = reservation.check_out_date
+    def __init__(self, reservation, hotel_id, room, text):
+        if text is None:
+            self.reservation_id = reservation.id
+            self.hotel_id = hotel_id
+            self.room_number = room.number
+            self.no_of_adults, self.no_of_children = rand_children_and_adults(room.max_no_of_guests)
+        else:
+            values = text.split('|')
+            self.reservation_id = values[0]
+            self.hotel_id = values[1]
+            self.room_number = values[2]
+            self.no_of_adults, self.no_of_children = int(values[4]), int(values[3])
 
     def __str__(self):
-        return "%s|%s|%s|%s|%s|%s|%s" % (self.reservation_id, self.hotel_id, self.room_number,
-                                         self.no_of_adults, self.no_of_children, self.check_in_date,
-                                         self.check_out_date)
+        return "%s|%s|%s|%s|%s" % (self.reservation_id, self.hotel_id, self.room_number,
+                                   self.no_of_children, self.no_of_adults)

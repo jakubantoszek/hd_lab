@@ -70,17 +70,25 @@ def rand_dates(period, guest_reservations_dates):
 
 
 class Reservation:
-    def __init__(self, reservation_id, guest_id, period, guest_reservations_dates):
-        self.id = reservation_id
-        self.guest_id = guest_id
-        self.reservation_date, self.check_in_date, self.check_out_date = \
-            rand_dates(period, guest_reservations_dates)
-        self.is_canceled = rand_is_canceled()
-        self.payment_method = rand_payment_method()
+    def __init__(self, reservation_id, guest_id, period, guest_reservations_dates, text):
+        if text is None:
+            self.id = reservation_id
+            self.guest_id = guest_id
+            self.reservation_date, self.check_in_date, self.check_out_date = \
+                rand_dates(period, guest_reservations_dates)
+            self.is_canceled = rand_is_canceled()
+            self.payment_method = rand_payment_method()
 
-        guest_reservations_dates.append((self.check_in_date, self.check_out_date))
+            guest_reservations_dates.append((self.check_in_date, self.check_out_date))
+        else:
+            values = text.split('|')
+            self.id = values[0]
+            self.guest_id = values[1]
+            self.reservation_date, self.check_in_date, self.check_out_date = values[2], values[3], values[4]
+            self.is_canceled = values[5]
+            self.payment_method = values[6]
 
     def __str__(self):
         return "%s|%s|%s|%s|%s|%s|%s" % (self.id, self.guest_id, self.reservation_date,
                                          self.check_in_date, self.check_out_date,
-                                         self.is_canceled, self.payment_method)
+                                         int(self.is_canceled), self.payment_method)
