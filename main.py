@@ -31,25 +31,18 @@ if __name__ == '__main__':
     T1 = '01-04-2020 00:00'
     T2 = '01-07-2020 00:00'
 
-    print("Hotels:")
     create_hotel_table(hotels, hotels_const)
-    # excel_main(hotels, [T0, T1], events, 0)
+    excel_main(hotels, [T0, T1], events, 0)
 
-    print("Guests:")
     create_guest_table(phones, mails, guests, 50000, 0)
-    print("Worker: ")
     create_worker_table(phones, mails, workers, 70000, 0)
     positions_dict = assign_workers_to_positions(workers)
 
-    print("Reservation: ")
     create_reservation_table(guests, [T0, T1], reservations)
-    print("Reservation service: ")
     create_reservation_service_table(positions_dict, reservations, reservation_service)
 
-    print("Room: ")
     create_room_table(hotels, rooms)
     rooms_dict = assign_rooms_to_hotels(hotels, rooms, dates_dict)
-    print("Reservation details: ")
     create_reservation_details_table(reservations, rooms_dict, dates_dict, [T0, T1],
                                      reservation_details)
 

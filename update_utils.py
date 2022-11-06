@@ -28,7 +28,7 @@ def get_numbers(workers, guests):
 
 
 def update_bulk_file(class_name, values):
-    directory = 'bulk_/'
+    directory = 'bulk/'
     with open(directory + class_name + '_update.bulk', 'w') as f:
         f.write(str(values[0]))
         for val in values[1:]:
@@ -115,8 +115,13 @@ def update_reservation_details_table(reservations, rooms_dict, dictionary, perio
             hotel_rooms = rooms_dict[hotel_id]
             room = hotel_rooms[random.randrange(len(hotel_rooms))]
 
+            x = 0
             while wrong_room(res, dictionary[(hotel_id, room.number)]):
-                room = hotel_rooms[random.randrange(len(hotel_rooms))]
+                if x % 2 == 0:
+                    room = hotel_rooms[random.randrange(len(hotel_rooms))]
+                else:
+                    res.reservation_date, res.check_in_date, res.check_out_date = res.rand_dates(period, 0)
+                x += 1
 
             reservation_details = ReservationDetails(res, hotel_id, room, None)
             dictionary[(hotel_id, room.number)].append(res)
@@ -128,9 +133,7 @@ def update_reservation_details_table(reservations, rooms_dict, dictionary, perio
 
 
 def get_object_from_reservation_id(res_id, reservations):
-    for res in reservations:
-        if res.id == res_id:
-            return res
+    return reservations[int(res_id) - 1]
 
 
 def assign_dates_to_rooms(dictionary, reservation_details, reservations):

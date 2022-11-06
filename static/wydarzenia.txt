@@ -1,0 +1,25 @@
+KATEGORIA - bal
+NAZWA_OPIS - Bal przebierańców - Zabawa tematyczna, dla dorosłych i dzieci, przebranie mile widziane, tematyka dowolna
+NAZWA_OPIS - Bal taneczny - Dla wszystkich lubiących dobrą zabawę, sugerowany ubiór do tańca i odpowiednie obuwie
+
+KATEGORIA - dzieci
+NAZWA_OPIS - Zabawa tematyczna - Przeznaczona dla dzieci z rodzicami, tematyka wybranej bajki
+NAZWA_OPIS - Dyskoteka dla dzieci - Dla dzieci, zabawa wieczorna przy muzyce i kolorowych światłach
+NAZWA_OPIS - Zabawa przebierana - Dla dzieci, zachęcamy do przebierania się za wybrane postaci z bajek
+NAZWA_OPIS - Zabawa dla przedszkolaków - Zorganizowane zabawy i konkursy dla najmłodszych, z nagrodami
+NAZWA_OPIS - Zabawa familijna - Zabawa dla całej rodziny, zachęcamy do wspólnego udziału
+NAZWA_OPIS - Mini teatrzyk - Zadowoli najmłodszych jak i tych nieco starszych
+NAZWA_OPIS - Tańce dla dzieci - Zorganizowane zajęcia taneczne dla dzieci, różne tańce
+
+KATEGORIA - warsztaty
+NAZWA_OPIS - Warsztaty kulinarne - Przeznaczone dla rodzin, dzieci i dorosłych. Wszystkie potrzebne rzeczy będą dostępne na miejscu
+NAZWA_OPIS - Warsztaty taneczne salsa - Warsztaty taneczne tańca salsa, dla wszystkich chętnych
+NAZWA_OPIS - Warsztaty taneczne tango - Warsztaty taneczne tańca tango, dla wszystkich chętnych
+NAZWA_OPIS - Warsztaty taneczne hip-hop - Warsztaty taneczne tańca hip-hop, dla wszystkich chętnych
+NAZWA_OPIS - Warsztaty plastyczno-artystyczne - Warsztaty plastyczno-artystyczne, dla wszystkich chętnych
+NAZWA_OPIS - Warsztaty wizażowe - Spotkanie z wizażystką i poznanie technik makijażowych oraz fryzjerskich
+NAZWA_OPIS - Warsztaty "bliżej kultury" - Spotkanie z pracownikiem teatru/kina, poruszenie zagadnienia historii teatru/kina, zorganizowane warsztaty
+
+KATEGORIA - spotkania
+NAZWA_OPIS - Spotkanie z właścicielem hotelu - Spotkanie mające na celu zapoznanie gości i pracowników z właścielem hotelu, Q&A 
+NAZWA_OPIS - Spotkanie integracyjne - Zarówno dla gości i pracowników, integracja

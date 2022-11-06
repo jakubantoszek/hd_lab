@@ -48,7 +48,7 @@ def rand_check_in_date(reservation_date):
 
 
 def rand_check_out_date(check_in_date):
-    reservation_days = random.randrange(1, 15)
+    reservation_days = random.randrange(1, 8)
     check_out_date = check_in_date + timedelta(days=reservation_days)
 
     check_out_date -= timedelta(hours=check_out_date.hour, minutes=check_out_date.minute,
@@ -57,21 +57,13 @@ def rand_check_out_date(check_in_date):
     return check_out_date
 
 
-def rand_dates(period, days_before):
-    reservation_date = rand_reservation_date(period, days_before)
-    check_in_date = rand_check_in_date(reservation_date)
-    check_out_date = rand_check_out_date(check_in_date)
-
-    return reservation_date, check_in_date, check_out_date
-
-
 class Reservation:
     def __init__(self, reservation_id, guest_id, period, guest_reservations_dates, text, days_before):
         if text is None:
             self.id = reservation_id
             self.guest_id = guest_id
             self.reservation_date, self.check_in_date, self.check_out_date = \
-                rand_dates(period, days_before)
+                self.rand_dates(period, days_before)
             self.is_canceled = rand_is_canceled()
             self.payment_method = rand_payment_method()
         else:
@@ -89,3 +81,10 @@ class Reservation:
         return "%s|%s|%s|%s|%s|%s|%s" % (self.id, self.guest_id, self.reservation_date,
                                          self.check_in_date, self.check_out_date,
                                          int(self.is_canceled), self.payment_method)
+
+    def rand_dates(self, period, days_before):
+        reservation_date = rand_reservation_date(period, days_before)
+        check_in_date = rand_check_in_date(reservation_date)
+        check_out_date = rand_check_out_date(check_in_date)
+
+        return reservation_date, check_in_date, check_out_date

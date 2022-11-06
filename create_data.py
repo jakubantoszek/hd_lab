@@ -13,7 +13,6 @@ reservesation_chances = {0.8: 1, 0.9: 2, 0.95: 3, 0.99: 4, 1: 5}
 
 
 def create_guest_table(phones, mails, guests, number, start_id):
-    # for i in range(5000):
     for i in range(number):
         guest = Guest(i + 1 + start_id, phones, mails, None)
         phones.append(guest.phone_number)
@@ -57,7 +56,7 @@ def create_reservation_table(guests, period, reservations):
         no_of_reservations = get_no_of_reservations()
 
         for j in range(no_of_reservations):
-            reservation = Reservation(len(reservations) + 1, guests[i].id, period, dates, None, 194)
+            reservation = Reservation(len(reservations) + 1, guests[i].id, period, dates, None, 187)
             reservations.append(reservation)
 
 
@@ -118,8 +117,13 @@ def create_reservation_details_table(reservations, rooms_dict, dictionary, perio
             hotel_rooms = rooms_dict[hotel_id]
             room = hotel_rooms[random.randrange(len(hotel_rooms))]
 
+            x = 0
             while wrong_room(res, dictionary[(hotel_id, room.number)]):
-                room = hotel_rooms[random.randrange(len(hotel_rooms))]
+                if x % 2 == 0:
+                    room = hotel_rooms[random.randrange(len(hotel_rooms))]
+                else:
+                    res.reservation_date, res.check_in_date, res.check_out_date = res.rand_dates(period, 187)
+                x += 1
 
             reservation_details = ReservationDetails(res, hotel_id, room, None)
             dictionary[(hotel_id, room.number)].append(res)
