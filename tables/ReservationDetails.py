@@ -24,7 +24,7 @@ class ReservationDetails:
             self.reservation_id = reservation.id
             self.hotel_id = hotel_id
             self.room_number = room.number
-            self.no_of_adults, self.no_of_children = rand_children_and_adults(room.max_no_of_guests)
+            self.no_of_adults, self.no_of_children = rand_children_and_adults(int(room.max_no_of_guests))
         else:
             values = text.split('|')
             self.reservation_id = values[0]

@@ -57,7 +57,7 @@ def create_reservation_table(guests, period, reservations):
         no_of_reservations = get_no_of_reservations()
 
         for j in range(no_of_reservations):
-            reservation = Reservation(len(reservations) + 1 + len(reservations), guests[i].id, period, dates, None, 194)
+            reservation = Reservation(len(reservations) + 1, guests[i].id, period, dates, None, 194)
             reservations.append(reservation)
 
 

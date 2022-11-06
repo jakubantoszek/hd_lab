@@ -57,14 +57,10 @@ def rand_check_out_date(check_in_date):
     return check_out_date
 
 
-def rand_dates(period, guest_reservations_dates, days_before):
+def rand_dates(period, days_before):
     reservation_date = rand_reservation_date(period, days_before)
     check_in_date = rand_check_in_date(reservation_date)
     check_out_date = rand_check_out_date(check_in_date)
-
-    for date in guest_reservations_dates:
-        if max(date[0], check_in_date) <= min(date[1], check_out_date):
-            return rand_dates(period, guest_reservations_dates, days_before)
 
     return reservation_date, check_in_date, check_out_date
 
@@ -75,11 +71,9 @@ class Reservation:
             self.id = reservation_id
             self.guest_id = guest_id
             self.reservation_date, self.check_in_date, self.check_out_date = \
-                rand_dates(period, guest_reservations_dates, days_before)
+                rand_dates(period, days_before)
             self.is_canceled = rand_is_canceled()
             self.payment_method = rand_payment_method()
-
-            guest_reservations_dates.append((self.check_in_date, self.check_out_date))
         else:
             values = text.split('|')
             self.id = values[0]

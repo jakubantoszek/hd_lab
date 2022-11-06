@@ -5,7 +5,7 @@ male_surnames = []
 female_names = []
 female_surnames = []
 e_mails = ['gmail.com', 'interia.pl', 'o2.pl', 'wp.pl', 'onet.pl']
-email_breaks = ['', '.', '-', '_']
+email_breaks = ['', '.', '-', '_', '--']
 stars = [5, 4, 4, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2]
 polish_signs = {'ą': 'a', 'ć': 'c', 'ę': 'e', 'ł': 'l', 'ó': 'o', 'ń': 'n', 'ś': 's',
                 'ż': 'z', 'ź': 'z'}
@@ -100,7 +100,10 @@ def random_email(name, surname, prev_mails, is_worker):
 
     mail = mail_name + email_break + mail_surname + '@' + service
     if mail in prev_mails:
-        return random_email(name, surname, prev_mails, is_worker)
+        mail_rev = mail_surname + email_break + mail_name + '@' + service
+        if mail_rev in prev_mails:
+            return random_email(name, surname, prev_mails, is_worker)
+        return mail_rev
 
     return mail
 

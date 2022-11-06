@@ -1,10 +1,11 @@
 from utils import *
 from create_data import *
+from excel import *
 
 if __name__ == '__main__':
     get_names()
     get_surnames()
-    set_positions([400, 200, 100])
+    set_positions([40000, 20000, 10000])
 
     phones = []
     mails = []
@@ -24,20 +25,31 @@ if __name__ == '__main__':
     hotels = []
     rooms = []
     reservation_details = []
+    events = []
 
     T0 = '01-01-2020 00:00'
     T1 = '01-04-2020 00:00'
+    T2 = '01-07-2020 00:00'
 
-    create_guest_table(phones, mails, guests, 500, 0)
-    create_worker_table(phones, mails, workers, 700, 0)
+    print("Hotels:")
+    create_hotel_table(hotels, hotels_const)
+    # excel_main(hotels, [T0, T1], events, 0)
+
+    print("Guests:")
+    create_guest_table(phones, mails, guests, 50000, 0)
+    print("Worker: ")
+    create_worker_table(phones, mails, workers, 70000, 0)
     positions_dict = assign_workers_to_positions(workers)
 
+    print("Reservation: ")
     create_reservation_table(guests, [T0, T1], reservations)
+    print("Reservation service: ")
     create_reservation_service_table(positions_dict, reservations, reservation_service)
 
-    create_hotel_table(hotels, hotels_const)
+    print("Room: ")
     create_room_table(hotels, rooms)
     rooms_dict = assign_rooms_to_hotels(hotels, rooms, dates_dict)
+    print("Reservation details: ")
     create_reservation_details_table(reservations, rooms_dict, dates_dict, [T0, T1],
                                      reservation_details)
 

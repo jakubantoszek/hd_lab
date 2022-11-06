@@ -1,6 +1,8 @@
 import random
+from datetime import datetime
 
 from tables.Reservation import Reservation
+from tables.ReservationDetails import ReservationDetails
 
 
 def get_emails(workers, guests):
@@ -26,8 +28,8 @@ def get_numbers(workers, guests):
 
 
 def update_bulk_file(class_name, values):
-    directory = 'bulk_t2/'
-    with open(directory + class_name + '.bulk', 'w') as f:
+    directory = 'bulk_/'
+    with open(directory + class_name + '_update.bulk', 'w') as f:
         f.write(str(values[0]))
         for val in values[1:]:
             f.write('\n' + str(val))
@@ -71,7 +73,6 @@ def update_reservation_table(guests, period, reservations, list_of_old_guests, l
         no_of_reservations = get_no_of_reservations({0.8: 1, 0.9: 2, 0.95: 3, 0.99: 4, 1: 5})
 
         for j in range(no_of_reservations):
-            print('xd')
             reservation = Reservation(len(reservations) + 1, list_of_new_guests[i].id, period, dates, None, 0)
             reservations.append(reservation)
 
@@ -81,3 +82,58 @@ def update_reservation_table(guests, period, reservations, list_of_old_guests, l
         for j in range(no_of_reservations):
             reservation = Reservation(len(reservations) + 1, list_of_old_guests[i].id, period, dates, None, 0)
             reservations.append(reservation)
+
+
+def rand_no_of_reservated_rooms():
+    val = random.random()
+    if val < 0.75:
+        return 1
+    elif val < 0.90:
+        return 2
+    elif val < 0.97:
+        return 3
+    return 4
+
+
+def wrong_room(reservation, room_reservations):
+    ret = False
+
+    for res in room_reservations:
+        if max(res.check_in_date, reservation.check_in_date) <= \
+                min(res.check_out_date, reservation.check_out_date):
+            ret = True
+
+    return ret
+
+
+def update_reservation_details_table(reservations, rooms_dict, dictionary, period, details):
+    for res in reservations:
+        no_of_rooms = rand_no_of_reservated_rooms()
+        hotel_id = list(rooms_dict.keys())[random.randrange(len(rooms_dict.keys()))]
+
+        for _ in range(no_of_rooms):
+            hotel_rooms = rooms_dict[hotel_id]
+            room = hotel_rooms[random.randrange(len(hotel_rooms))]
+
+            while wrong_room(res, dictionary[(hotel_id, room.number)]):
+                room = hotel_rooms[random.randrange(len(hotel_rooms))]
+
+            reservation_details = ReservationDetails(res, hotel_id, room, None)
+            dictionary[(hotel_id, room.number)].append(res)
+
+            if res.check_in_date < datetime.strptime(period[1], '%d-%m-%Y %H:%M') < res.check_out_date:
+                room.is_occupied = True
+
+            details.append(reservation_details)
+
+
+def get_object_from_reservation_id(res_id, reservations):
+    for res in reservations:
+        if res.id == res_id:
+            return res
+
+
+def assign_dates_to_rooms(dictionary, reservation_details, reservations):
+    for details in reservation_details:
+        res = get_object_from_reservation_id(details.reservation_id, reservations)
+        dictionary[(details.hotel_id, details.room_number)].append(res)
